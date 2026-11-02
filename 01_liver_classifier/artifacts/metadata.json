@@ -1,0 +1,77 @@
+{
+  "selected_model": "logistic",
+  "threshold": 0.39,
+  "feature_order": [
+    "age",
+    "total_bilirubin",
+    "direct_bilirubin",
+    "alkaline_phosphatase",
+    "alt",
+    "ast",
+    "total_protein",
+    "albumin",
+    "albumin_globulin_ratio",
+    "gender"
+  ],
+  "transformed_feature_order": [
+    "age",
+    "total_bilirubin",
+    "direct_bilirubin",
+    "alkaline_phosphatase",
+    "alt",
+    "ast",
+    "total_protein",
+    "albumin",
+    "albumin_globulin_ratio",
+    "gender_Male"
+  ],
+  "seed": 42,
+  "trained_rows": 342,
+  "csv_sha256": "84feac16488de5cf89bd22bd802c77f25841fe93e9ddd32355683e94d46c3425",
+  "training_ranges": {
+    "age": [
+      4.0,
+      90.0
+    ],
+    "total_bilirubin": [
+      0.5,
+      75.0
+    ],
+    "direct_bilirubin": [
+      0.1,
+      18.3
+    ],
+    "alkaline_phosphatase": [
+      75.0,
+      2110.0
+    ],
+    "alt": [
+      10.0,
+      2000.0
+    ],
+    "ast": [
+      10.0,
+      4929.0
+    ],
+    "total_protein": [
+      2.8,
+      8.9
+    ],
+    "albumin": [
+      1.0,
+      5.5
+    ],
+    "albumin_globulin_ratio": [
+      0.3,
+      2.5
+    ]
+  },
+  "models": [
+    "dummy",
+    "logistic",
+    "forest"
+  ],
+  "prediction_target": "ILPD Selector=1 versus Selector=2",
+  "calibrated": false,
+  "test_selected_by_validation_only": true
+}

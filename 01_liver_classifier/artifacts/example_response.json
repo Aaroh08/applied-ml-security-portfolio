@@ -1,0 +1,107 @@
+{
+  "model": "logistic",
+  "score": 0.346963754992114,
+  "threshold": 0.39,
+  "predicted_label": 0,
+  "label_description": "Dataset non-liver-patient label",
+  "disclaimer": "Educational dataset-label model. Not a diagnosis, clinical probability, or treatment recommendation.",
+  "warnings": [],
+  "calibrated": false,
+  "shap": {
+    "method": "Permutation SHAP through the fitted pipeline",
+    "base_score": 0.5792536674642654,
+    "reconstructed_score": 0.34696375499211385,
+    "additivity_error": 1.6653345369377348e-16,
+    "contributions": [
+      {
+        "feature": "age",
+        "value": -0.001782765870604136
+      },
+      {
+        "feature": "total_bilirubin",
+        "value": -0.008019512638951669
+      },
+      {
+        "feature": "direct_bilirubin",
+        "value": -0.03156283305240829
+      },
+      {
+        "feature": "alkaline_phosphatase",
+        "value": -0.019750520870130076
+      },
+      {
+        "feature": "alt",
+        "value": -0.0436582806192397
+      },
+      {
+        "feature": "ast",
+        "value": -0.0343705853836127
+      },
+      {
+        "feature": "total_protein",
+        "value": 0.011909336233346486
+      },
+      {
+        "feature": "albumin",
+        "value": -0.04563206450911655
+      },
+      {
+        "feature": "albumin_globulin_ratio",
+        "value": -0.0046974369421577955
+      },
+      {
+        "feature": "gender",
+        "value": -0.054725248819277116
+      }
+    ],
+    "note": "Approximate contributions relative to 40 training background rows. Correlated features complicate attribution; these are not causes."
+  },
+  "lime": {
+    "contributions": [
+      {
+        "condition": "26.00 < ast <= 43.00",
+        "weight": -0.10449225823512982
+      },
+      {
+        "condition": "24.00 < alt <= 36.00",
+        "weight": -0.07228306310082626
+      },
+      {
+        "condition": "gender=Female",
+        "weight": -0.059388292828717285
+      },
+      {
+        "condition": "6.55 < total_protein <= 7.17",
+        "weight": 0.052357997497739166
+      },
+      {
+        "condition": "3.10 < albumin <= 3.70",
+        "weight": -0.038194246599278885
+      },
+      {
+        "condition": "178.00 < alkaline_phosphatase <= 214.00",
+        "weight": -0.024347367635677197
+      },
+      {
+        "condition": "0.30 < direct_bilirubin <= 1.10",
+        "weight": -0.020886802807995316
+      },
+      {
+        "condition": "0.90 < albumin_globulin_ratio <= 1.10",
+        "weight": 0.007258902014105973
+      },
+      {
+        "condition": "33.00 < age <= 45.00",
+        "weight": -0.006395681832282338
+      },
+      {
+        "condition": "1.00 < total_bilirubin <= 2.20",
+        "weight": -0.004979680762572354
+      }
+    ],
+    "local_weighted_r2": 0.07822901373570001,
+    "surrogate_score": 0.46150038363478235,
+    "absolute_score_error": 0.11453662864266834,
+    "note": "A local linear approximation, not an exact decomposition. Perturbed biochemical combinations can be implausible. Low R2 or large score error indicates poor fidelity."
+  }
+}

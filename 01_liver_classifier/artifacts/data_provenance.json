@@ -1,0 +1,13 @@
+{
+  "source": "https://archive.ics.uci.edu/static/public/225/ilpd%2Bindian%2Bliver%2Bpatient%2Bdataset.zip",
+  "source_page": "https://archive.ics.uci.edu/dataset/225/ilpd+indian+liver+patient+dataset",
+  "doi": "10.24432/C5D02C",
+  "license": "CC BY 4.0",
+  "attribution": "Ramana, B. and Venkateswarlu, N. ILPD, UCI Machine Learning Repository.",
+  "archive_sha256": "60e18fbfe7f84daf58c178ea280ba5fe8db7e2507aabce01b57425b3b822cf0b",
+  "csv_sha256": "84feac16488de5cf89bd22bd802c77f25841fe93e9ddd32355683e94d46c3425",
+  "archive_member": "Indian Liver Patient Dataset (ILPD).csv",
+  "csv_bytes": 23755,
+  "source_verified_on": "2026-11-02",
+  "target": "Selector 1 = liver patient (positive); 2 = non-liver patient (negative). Not cirrhosis."
+}

@@ -1,0 +1,12 @@
+{
+  "python": "3.12.14",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "packages": {
+    "numpy": "1.26.4",
+    "pandas": "2.2.3",
+    "scikit-learn": "1.6.1",
+    "Flask": "3.1.0",
+    "shap": "0.47.2",
+    "lime": "0.2.0.1"
+  }
+}

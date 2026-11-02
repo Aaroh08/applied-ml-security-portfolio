@@ -1,0 +1,12 @@
+**/.venv/
+**/tmp/
+**/__pycache__/
+**/.pytest_cache/
+**/pytest-cache-files-*/
+**/data/
+**/.cache/
+**/artifacts/*.joblib
+**/artifacts/*.npz
+**/*.pyc
+**/.env
+**/runtime/

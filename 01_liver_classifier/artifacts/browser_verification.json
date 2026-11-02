@@ -1,0 +1,11 @@
+{
+  "date": "2026-11-02",
+  "url": "http://127.0.0.1:5051/",
+  "real_browser": true,
+  "flows_verified": ["fictional example populates inputs", "prediction score and both explanations render", "invalid direct bilirubin returns clear error"],
+  "example_score_displayed": 0.347,
+  "shap_reconstruction_error_displayed": 1.7e-16,
+  "lime_local_r2_displayed": 0.078,
+  "lime_score_error_displayed": 0.115,
+  "screenshot": "docs/demo.png"
+}

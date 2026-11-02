@@ -1,0 +1,238 @@
+{
+  "raw_rows": 583,
+  "raw_labels": {
+    "1": 416,
+    "2": 167
+  },
+  "missing": {
+    "age": 0,
+    "gender": 0,
+    "total_bilirubin": 0,
+    "direct_bilirubin": 0,
+    "alkaline_phosphatase": 0,
+    "alt": 0,
+    "ast": 0,
+    "total_protein": 0,
+    "albumin": 0,
+    "albumin_globulin_ratio": 4,
+    "selector": 0
+  },
+  "exact_duplicate_rows": 13,
+  "feature_duplicate_rows": 13,
+  "source_discrepancies": "UCI text says 584 once and 583 elsewhere, and says no missing values. Actual CSV counts take precedence.",
+  "patient_id_available": false,
+  "units": "UCI specifies years for age; biochemical units are not specified. Do not assume units for real-world input.",
+  "direct_exceeds_total": 3,
+  "albumin_exceeds_protein": 0,
+  "conflicting_profiles": 0,
+  "conflicting_rows_removed": 0,
+  "clean_rows": 570,
+  "split_counts": {
+    "train": {
+      "n": 342,
+      "positive": 244
+    },
+    "validation": {
+      "n": 114,
+      "positive": 81
+    },
+    "test": {
+      "n": 114,
+      "positive": 81
+    }
+  },
+  "training_numeric_summary": {
+    "age": {
+      "count": 342.0,
+      "mean": 45.0263157895,
+      "std": 16.6013075094,
+      "min": 4.0,
+      "25%": 33.0,
+      "50%": 45.0,
+      "75%": 58.0,
+      "max": 90.0
+    },
+    "total_bilirubin": {
+      "count": 342.0,
+      "mean": 2.9871345029,
+      "std": 6.1446835595,
+      "min": 0.5,
+      "25%": 0.8,
+      "50%": 1.0,
+      "75%": 2.2,
+      "max": 75.0
+    },
+    "direct_bilirubin": {
+      "count": 342.0,
+      "mean": 1.3111111111,
+      "std": 2.5437968815,
+      "min": 0.1,
+      "25%": 0.2,
+      "50%": 0.3,
+      "75%": 1.1,
+      "max": 18.3
+    },
+    "alkaline_phosphatase": {
+      "count": 342.0,
+      "mean": 304.7222222222,
+      "std": 263.3545974933,
+      "min": 75.0,
+      "25%": 178.0,
+      "50%": 214.0,
+      "75%": 298.0,
+      "max": 2110.0
+    },
+    "alt": {
+      "count": 342.0,
+      "mean": 91.2953216374,
+      "std": 216.1690522645,
+      "min": 10.0,
+      "25%": 24.0,
+      "50%": 36.0,
+      "75%": 61.0,
+      "max": 2000.0
+    },
+    "ast": {
+      "count": 342.0,
+      "mean": 127.4415204678,
+      "std": 359.7631443471,
+      "min": 10.0,
+      "25%": 26.0,
+      "50%": 43.0,
+      "75%": 88.0,
+      "max": 4929.0
+    },
+    "total_protein": {
+      "count": 342.0,
+      "mean": 6.4807017544,
+      "std": 1.041981858,
+      "min": 2.8,
+      "25%": 5.9,
+      "50%": 6.55,
+      "75%": 7.175,
+      "max": 8.9
+    },
+    "albumin": {
+      "count": 342.0,
+      "mean": 3.1467836257,
+      "std": 0.7546366199,
+      "min": 1.0,
+      "25%": 2.6,
+      "50%": 3.1,
+      "75%": 3.7,
+      "max": 5.5
+    },
+    "albumin_globulin_ratio": {
+      "count": 340.0,
+      "mean": 0.9465294118,
+      "std": 0.30029339,
+      "min": 0.3,
+      "25%": 0.7,
+      "50%": 0.9,
+      "75%": 1.1,
+      "max": 2.5
+    }
+  },
+  "training_correlations": {
+    "age": {
+      "age": 1.0,
+      "total_bilirubin": -0.0112111672,
+      "direct_bilirubin": -0.0316793438,
+      "alkaline_phosphatase": 0.0428413096,
+      "alt": -0.1050266816,
+      "ast": -0.016564069,
+      "total_protein": -0.156208183,
+      "albumin": -0.2255884171,
+      "albumin_globulin_ratio": -0.1853219124
+    },
+    "total_bilirubin": {
+      "age": -0.0112111672,
+      "total_bilirubin": 1.0,
+      "direct_bilirubin": 0.7768127417,
+      "alkaline_phosphatase": 0.2020862842,
+      "alt": 0.225810728,
+      "ast": 0.2257424851,
+      "total_protein": -0.0465876249,
+      "albumin": -0.1985014918,
+      "albumin_globulin_ratio": -0.1628902945
+    },
+    "direct_bilirubin": {
+      "age": -0.0316793438,
+      "total_bilirubin": 0.7768127417,
+      "direct_bilirubin": 1.0,
+      "alkaline_phosphatase": 0.2443952043,
+      "alt": 0.2694826514,
+      "ast": 0.2697431328,
+      "total_protein": -0.0403237439,
+      "albumin": -0.2121267924,
+      "albumin_globulin_ratio": -0.156517411
+    },
+    "alkaline_phosphatase": {
+      "age": 0.0428413096,
+      "total_bilirubin": 0.2020862842,
+      "direct_bilirubin": 0.2443952043,
+      "alkaline_phosphatase": 1.0,
+      "alt": 0.1005225038,
+      "ast": 0.1660276009,
+      "total_protein": -0.0101570179,
+      "albumin": -0.2011818115,
+      "albumin_globulin_ratio": -0.2708407137
+    },
+    "alt": {
+      "age": -0.1050266816,
+      "total_bilirubin": 0.225810728,
+      "direct_bilirubin": 0.2694826514,
+      "alkaline_phosphatase": 0.1005225038,
+      "alt": 1.0,
+      "ast": 0.7888326777,
+      "total_protein": -0.0422122558,
+      "albumin": -0.0200464666,
+      "albumin_globulin_ratio": 0.0176294715
+    },
+    "ast": {
+      "age": -0.016564069,
+      "total_bilirubin": 0.2257424851,
+      "direct_bilirubin": 0.2697431328,
+      "alkaline_phosphatase": 0.1660276009,
+      "alt": 0.7888326777,
+      "ast": 1.0,
+      "total_protein": -0.0350935016,
+      "albumin": -0.0772186233,
+      "albumin_globulin_ratio": -0.0580691833
+    },
+    "total_protein": {
+      "age": -0.156208183,
+      "total_bilirubin": -0.0465876249,
+      "direct_bilirubin": -0.0403237439,
+      "alkaline_phosphatase": -0.0101570179,
+      "alt": -0.0422122558,
+      "ast": -0.0350935016,
+      "total_protein": 1.0,
+      "albumin": 0.8019069259,
+      "albumin_globulin_ratio": 0.2391862031
+    },
+    "albumin": {
+      "age": -0.2255884171,
+      "total_bilirubin": -0.1985014918,
+      "direct_bilirubin": -0.2121267924,
+      "alkaline_phosphatase": -0.2011818115,
+      "alt": -0.0200464666,
+      "ast": -0.0772186233,
+      "total_protein": 0.8019069259,
+      "albumin": 1.0,
+      "albumin_globulin_ratio": 0.6852596848
+    },
+    "albumin_globulin_ratio": {
+      "age": -0.1853219124,
+      "total_bilirubin": -0.1628902945,
+      "direct_bilirubin": -0.156517411,
+      "alkaline_phosphatase": -0.2708407137,
+      "alt": 0.0176294715,
+      "ast": -0.0580691833,
+      "total_protein": 0.2391862031,
+      "albumin": 0.6852596848,
+      "albumin_globulin_ratio": 1.0
+    }
+  },
+  "leakage_review": "Selector is excluded from features. No IDs/timestamps are supplied. Identical feature profiles cannot cross splits. Related records with different features remain undetectable. Correlated biochemical variables are retained; they complicate explanation attribution."
+}

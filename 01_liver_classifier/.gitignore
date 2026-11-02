@@ -1,0 +1,9 @@
+.venv/
+tmp/
+__pycache__/
+.pytest_cache/
+data/
+artifacts/*.joblib
+artifacts/*.npz
+*.pyc
+.env
