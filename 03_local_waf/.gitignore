@@ -1,0 +1,8 @@
+.venv/
+runtime/
+tmp/
+__pycache__/
+.pytest_cache/
+artifacts/*.joblib
+*.pyc
+.env

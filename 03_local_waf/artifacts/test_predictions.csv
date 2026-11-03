@@ -1,0 +1,371 @@
+split,family,label,payload,model_score,rules_block,rf_block,combined_block
+test,benign_gift,0,gift card 927004 for a friend,0.13200421165142417,False,False,False
+test,benign_gift,0,gift%20card%20725586%20for%20a%20friend,0.13700421165142418,False,False,False
+test,benign_gift,0,gift%2520card%2520948837%2520for%2520a%2520friend,0.13700421165142418,False,False,False
+test,benign_gift,0,gift card 157294 for a friend,0.13200421165142417,False,False,False
+test,benign_gift,0,gift%20card%20573092%20for%20a%20friend,0.13700421165142418,False,False,False
+test,benign_gift,0,gift%2520card%252038778%2520for%2520a%2520friend,0.14720288714811292,False,False,False
+test,benign_gift,0,gift card 876136 for a friend,0.13200421165142417,False,False,False
+test,benign_gift,0,gift%20card%20388151%20for%20a%20friend,0.13700421165142418,False,False,False
+test,benign_gift,0,gift%2520card%2520611805%2520for%2520a%2520friend,0.13700421165142418,False,False,False
+test,benign_gift,0,gift card 580364 for a friend,0.13200421165142417,False,False,False
+test,benign_gift,0,gift%20card%20156287%20for%20a%20friend,0.13700421165142418,False,False,False
+test,benign_gift,0,gift%2520card%2520451664%2520for%2520a%2520friend,0.13700421165142418,False,False,False
+test,benign_gift,0,gift card 134636 for a friend,0.13200421165142417,False,False,False
+test,benign_gift,0,gift%20card%2044860%20for%20a%20friend,0.14720288714811292,False,False,False
+test,benign_gift,0,gift%2520card%2520324232%2520for%2520a%2520friend,0.13700421165142418,False,False,False
+test,benign_gift,0,gift card 383364 for a friend,0.13200421165142417,False,False,False
+test,benign_gift,0,gift%20card%20943650%20for%20a%20friend,0.13700421165142418,False,False,False
+test,benign_gift,0,gift%2520card%2520979413%2520for%2520a%2520friend,0.13700421165142418,False,False,False
+test,benign_gift,0,gift card 835794 for a friend,0.13200421165142417,False,False,False
+test,benign_gift,0,gift%20card%20903512%20for%20a%20friend,0.13700421165142418,False,False,False
+test,benign_gift,0,gift%2520card%252042832%2520for%2520a%2520friend,0.14720288714811292,False,False,False
+test,benign_gift,0,gift card 943590 for a friend,0.13200421165142417,False,False,False
+test,benign_gift,0,gift%20card%20376190%20for%20a%20friend,0.13700421165142418,False,False,False
+test,benign_gift,0,gift%2520card%2520221281%2520for%2520a%2520friend,0.13700421165142418,False,False,False
+test,benign_gift,0,gift card 716198 for a friend,0.13200421165142417,False,False,False
+test,benign_gift,0,gift%20card%20262650%20for%20a%20friend,0.13700421165142418,False,False,False
+test,benign_gift,0,gift%2520card%2520700330%2520for%2520a%2520friend,0.13700421165142418,False,False,False
+test,benign_gift,0,gift card 108786 for a friend,0.13200421165142417,False,False,False
+test,benign_gift,0,gift%20card%20371858%20for%20a%20friend,0.13700421165142418,False,False,False
+test,benign_gift,0,gift%2520card%2520819011%2520for%2520a%2520friend,0.13700421165142418,False,False,False
+test,benign_parentheses,0,folder (588080) in blue,0.5410859282636067,False,True,True
+test,benign_parentheses,0,folder%20%28928082%29%20in%20blue,0.5462512721789505,False,True,True
+test,benign_parentheses,0,folder%2520%2528918202%2529%2520in%2520blue,0.5462512721789505,False,True,True
+test,benign_parentheses,0,folder (427117) in blue,0.5410859282636067,False,True,True
+test,benign_parentheses,0,folder%20%28651810%29%20in%20blue,0.5462512721789505,False,True,True
+test,benign_parentheses,0,folder%2520%2528786884%2529%2520in%2520blue,0.5462512721789505,False,True,True
+test,benign_parentheses,0,folder (163060) in blue,0.5410859282636067,False,True,True
+test,benign_parentheses,0,folder%20%28971733%29%20in%20blue,0.5462512721789505,False,True,True
+test,benign_parentheses,0,folder%2520%2528976050%2529%2520in%2520blue,0.5462512721789505,False,True,True
+test,benign_parentheses,0,folder (249237) in blue,0.5410859282636067,False,True,True
+test,benign_parentheses,0,folder%20%28907604%29%20in%20blue,0.5462512721789505,False,True,True
+test,benign_parentheses,0,folder%2520%2528171395%2529%2520in%2520blue,0.5462512721789505,False,True,True
+test,benign_parentheses,0,folder (839742) in blue,0.5410859282636067,False,True,True
+test,benign_parentheses,0,folder%20%28851155%29%20in%20blue,0.5462512721789505,False,True,True
+test,benign_parentheses,0,folder%2520%2528186652%2529%2520in%2520blue,0.5462512721789505,False,True,True
+test,benign_parentheses,0,folder (925231) in blue,0.5410859282636067,False,True,True
+test,benign_parentheses,0,folder%20%28433322%29%20in%20blue,0.5462512721789505,False,True,True
+test,benign_parentheses,0,folder%2520%252826990%2529%2520in%2520blue,0.5176363397491103,False,True,True
+test,benign_parentheses,0,folder (189073) in blue,0.5410859282636067,False,True,True
+test,benign_parentheses,0,folder%20%28773343%29%20in%20blue,0.5462512721789505,False,True,True
+test,benign_parentheses,0,folder%2520%2528970395%2529%2520in%2520blue,0.5462512721789505,False,True,True
+test,benign_parentheses,0,folder (349321) in blue,0.5410859282636067,False,True,True
+test,benign_parentheses,0,folder%20%28821391%29%20in%20blue,0.5462512721789505,False,True,True
+test,benign_parentheses,0,folder%2520%2528977031%2529%2520in%2520blue,0.5462512721789505,False,True,True
+test,benign_parentheses,0,folder (432712) in blue,0.5410859282636067,False,True,True
+test,benign_parentheses,0,folder%20%28842204%29%20in%20blue,0.5462512721789505,False,True,True
+test,benign_parentheses,0,folder%2520%2528703448%2529%2520in%2520blue,0.5462512721789505,False,True,True
+test,benign_parentheses,0,folder (907036) in blue,0.5410859282636067,False,True,True
+test,benign_parentheses,0,folder%20%28771763%29%20in%20blue,0.5462512721789505,False,True,True
+test,benign_parentheses,0,folder%2520%2528851132%2529%2520in%2520blue,0.5462512721789505,False,True,True
+test,benign_html_tutorial,0,how to write <script> tags chapter 261222,0.030862068965517242,True,False,True
+test,benign_html_tutorial,0,how%20to%20write%20%3Cscript%3E%20tags%20chapter%20280766,0.02586206896551724,True,False,True
+test,benign_html_tutorial,0,how%2520to%2520write%2520%253Cscript%253E%2520tags%2520chapter%2520167931,0.02586206896551724,True,False,True
+test,benign_html_tutorial,0,how to write <script> tags chapter 826622,0.030862068965517242,True,False,True
+test,benign_html_tutorial,0,how%20to%20write%20%3Cscript%3E%20tags%20chapter%20736343,0.02586206896551724,True,False,True
+test,benign_html_tutorial,0,how%2520to%2520write%2520%253Cscript%253E%2520tags%2520chapter%2520114346,0.02586206896551724,True,False,True
+test,benign_html_tutorial,0,how to write <script> tags chapter 402124,0.030862068965517242,True,False,True
+test,benign_html_tutorial,0,how%20to%20write%20%3Cscript%3E%20tags%20chapter%20915533,0.02586206896551724,True,False,True
+test,benign_html_tutorial,0,how%2520to%2520write%2520%253Cscript%253E%2520tags%2520chapter%252041605,0.05085406349314439,True,False,True
+test,benign_html_tutorial,0,how to write <script> tags chapter 901300,0.030862068965517242,True,False,True
+test,benign_html_tutorial,0,how%20to%20write%20%3Cscript%3E%20tags%20chapter%20494554,0.02586206896551724,True,False,True
+test,benign_html_tutorial,0,how%2520to%2520write%2520%253Cscript%253E%2520tags%2520chapter%2520234238,0.02586206896551724,True,False,True
+test,benign_html_tutorial,0,how to write <script> tags chapter 210267,0.030862068965517242,True,False,True
+test,benign_html_tutorial,0,how%20to%20write%20%3Cscript%3E%20tags%20chapter%20857253,0.02586206896551724,True,False,True
+test,benign_html_tutorial,0,how%2520to%2520write%2520%253Cscript%253E%2520tags%2520chapter%2520964066,0.02586206896551724,True,False,True
+test,benign_html_tutorial,0,how to write <script> tags chapter 483662,0.030862068965517242,True,False,True
+test,benign_html_tutorial,0,how%20to%20write%20%3Cscript%3E%20tags%20chapter%20367643,0.02586206896551724,True,False,True
+test,benign_html_tutorial,0,how%2520to%2520write%2520%253Cscript%253E%2520tags%2520chapter%2520321015,0.02586206896551724,True,False,True
+test,benign_html_tutorial,0,how to write <script> tags chapter 861394,0.030862068965517242,True,False,True
+test,benign_html_tutorial,0,how%20to%20write%20%3Cscript%3E%20tags%20chapter%20834980,0.02586206896551724,True,False,True
+test,benign_html_tutorial,0,how%2520to%2520write%2520%253Cscript%253E%2520tags%2520chapter%2520914648,0.02586206896551724,True,False,True
+test,benign_html_tutorial,0,how to write <script> tags chapter 239651,0.030862068965517242,True,False,True
+test,benign_html_tutorial,0,how%20to%20write%20%3Cscript%3E%20tags%20chapter%20234752,0.02586206896551724,True,False,True
+test,benign_html_tutorial,0,how%2520to%2520write%2520%253Cscript%253E%2520tags%2520chapter%252025813,0.05085406349314439,True,False,True
+test,benign_html_tutorial,0,how to write <script> tags chapter 693094,0.030862068965517242,True,False,True
+test,benign_html_tutorial,0,how%20to%20write%20%3Cscript%3E%20tags%20chapter%20203511,0.02586206896551724,True,False,True
+test,benign_html_tutorial,0,how%2520to%2520write%2520%253Cscript%253E%2520tags%2520chapter%2520418821,0.02586206896551724,True,False,True
+test,benign_html_tutorial,0,how to write <script> tags chapter 345207,0.030862068965517242,True,False,True
+test,benign_html_tutorial,0,how%20to%20write%20%3Cscript%3E%20tags%20chapter%20293136,0.02586206896551724,True,False,True
+test,benign_html_tutorial,0,how%2520to%2520write%2520%253Cscript%253E%2520tags%2520chapter%2520907339,0.02586206896551724,True,False,True
+test,benign_equals,0,size=73792; color=blue,0.3379604244231917,False,False,False
+test,benign_equals,0,size%3D811891%3B%20color%3Dblue,0.34680288293833356,False,False,False
+test,benign_equals,0,size%253D293683%253B%2520color%253Dblue,0.34680288293833356,False,False,False
+test,benign_equals,0,size=369203; color=blue,0.34717325330870397,False,False,False
+test,benign_equals,0,size%3D673642%3B%20color%3Dblue,0.34680288293833356,False,False,False
+test,benign_equals,0,size%253D535150%253B%2520color%253Dblue,0.34680288293833356,False,False,False
+test,benign_equals,0,size=420093; color=blue,0.34717325330870397,False,False,False
+test,benign_equals,0,size%3D713526%3B%20color%3Dblue,0.34680288293833356,False,False,False
+test,benign_equals,0,size%253D885642%253B%2520color%253Dblue,0.34680288293833356,False,False,False
+test,benign_equals,0,size=563262; color=blue,0.34717325330870397,False,False,False
+test,benign_equals,0,size%3D348235%3B%20color%3Dblue,0.34680288293833356,False,False,False
+test,benign_equals,0,size%253D985861%253B%2520color%253Dblue,0.34680288293833356,False,False,False
+test,benign_equals,0,size=29941; color=blue,0.3379604244231917,False,False,False
+test,benign_equals,0,size%3D121944%3B%20color%3Dblue,0.34680288293833356,False,False,False
+test,benign_equals,0,size%253D920641%253B%2520color%253Dblue,0.34680288293833356,False,False,False
+test,benign_equals,0,size=274903; color=blue,0.34717325330870397,False,False,False
+test,benign_equals,0,size%3D188241%3B%20color%3Dblue,0.34680288293833356,False,False,False
+test,benign_equals,0,size%253D609792%253B%2520color%253Dblue,0.34680288293833356,False,False,False
+test,benign_equals,0,size=279361; color=blue,0.34717325330870397,False,False,False
+test,benign_equals,0,size%3D41115%3B%20color%3Dblue,0.3375900540528214,False,False,False
+test,benign_equals,0,size%253D114668%253B%2520color%253Dblue,0.34680288293833356,False,False,False
+test,benign_equals,0,size=626550; color=blue,0.34717325330870397,False,False,False
+test,benign_equals,0,size%3D456673%3B%20color%3Dblue,0.34680288293833356,False,False,False
+test,benign_equals,0,size%253D363479%253B%2520color%253Dblue,0.34680288293833356,False,False,False
+test,benign_equals,0,size=764934; color=blue,0.34717325330870397,False,False,False
+test,benign_equals,0,size%3D825629%3B%20color%3Dblue,0.34680288293833356,False,False,False
+test,benign_equals,0,size%253D329914%253B%2520color%253Dblue,0.34680288293833356,False,False,False
+test,benign_equals,0,size=458592; color=blue,0.34717325330870397,False,False,False
+test,benign_equals,0,size%3D636656%3B%20color%3Dblue,0.34680288293833356,False,False,False
+test,benign_equals,0,size%253D537265%253B%2520color%253Dblue,0.34680288293833356,False,False,False
+test,benign_percent,0,discount 122263% on notebooks,0.13200421165142417,False,False,False
+test,benign_percent,0,discount%20404906%25%20on%20notebooks,0.13200421165142417,False,False,False
+test,benign_percent,0,discount%2520944199%2525%2520on%2520notebooks,0.13200421165142417,False,False,False
+test,benign_percent,0,discount 605596% on notebooks,0.13200421165142417,False,False,False
+test,benign_percent,0,discount%20200312%25%20on%20notebooks,0.13200421165142417,False,False,False
+test,benign_percent,0,discount%2520268095%2525%2520on%2520notebooks,0.13200421165142417,False,False,False
+test,benign_percent,0,discount 47542% on notebooks,0.1422028871481129,False,False,False
+test,benign_percent,0,discount%20744215%25%20on%20notebooks,0.13200421165142417,False,False,False
+test,benign_percent,0,discount%2520458239%2525%2520on%2520notebooks,0.13200421165142417,False,False,False
+test,benign_percent,0,discount 2773% on notebooks,0.08307319242854494,False,False,False
+test,benign_percent,0,discount%20546175%25%20on%20notebooks,0.13200421165142417,False,False,False
+test,benign_percent,0,discount%2520971535%2525%2520on%2520notebooks,0.13200421165142417,False,False,False
+test,benign_percent,0,discount 846687% on notebooks,0.13200421165142417,False,False,False
+test,benign_percent,0,discount%20565607%25%20on%20notebooks,0.13200421165142417,False,False,False
+test,benign_percent,0,discount%2520721221%2525%2520on%2520notebooks,0.13200421165142417,False,False,False
+test,benign_percent,0,discount 755377% on notebooks,0.13200421165142417,False,False,False
+test,benign_percent,0,discount%20986937%25%20on%20notebooks,0.13200421165142417,False,False,False
+test,benign_percent,0,discount%2520778991%2525%2520on%2520notebooks,0.13200421165142417,False,False,False
+test,benign_percent,0,discount 773840% on notebooks,0.13200421165142417,False,False,False
+test,benign_percent,0,discount%20704204%25%20on%20notebooks,0.13200421165142417,False,False,False
+test,benign_percent,0,discount%2520207606%2525%2520on%2520notebooks,0.13200421165142417,False,False,False
+test,benign_percent,0,discount 382913% on notebooks,0.13200421165142417,False,False,False
+test,benign_percent,0,discount%20453248%25%20on%20notebooks,0.13200421165142417,False,False,False
+test,benign_percent,0,discount%252074372%2525%2520on%2520notebooks,0.1422028871481129,False,False,False
+test,benign_percent,0,discount 995967% on notebooks,0.13200421165142417,False,False,False
+test,benign_percent,0,discount%20697503%25%20on%20notebooks,0.13200421165142417,False,False,False
+test,benign_percent,0,discount%2520966498%2525%2520on%2520notebooks,0.13200421165142417,False,False,False
+test,benign_percent,0,discount 347239% on notebooks,0.13200421165142417,False,False,False
+test,benign_percent,0,discount%20654425%25%20on%20notebooks,0.13200421165142417,False,False,False
+test,benign_percent,0,discount%2520330164%2525%2520on%2520notebooks,0.13200421165142417,False,False,False
+test,benign_double_quote,0,"book ""SQL"" edition 696612",0.1406120919957523,False,False,False
+test,benign_double_quote,0,book%20%22SQL%22%20edition%20890208,0.1457774359110962,False,False,False
+test,benign_double_quote,0,book%2520%2522SQL%2522%2520edition%2520131679,0.1457774359110962,False,False,False
+test,benign_double_quote,0,"book ""SQL"" edition 755717",0.1406120919957523,False,False,False
+test,benign_double_quote,0,book%20%22SQL%22%20edition%20944767,0.1457774359110962,False,False,False
+test,benign_double_quote,0,book%2520%2522SQL%2522%2520edition%2520315910,0.1457774359110962,False,False,False
+test,benign_double_quote,0,"book ""SQL"" edition 532756",0.1406120919957523,False,False,False
+test,benign_double_quote,0,book%20%22SQL%22%20edition%20325308,0.1457774359110962,False,False,False
+test,benign_double_quote,0,book%2520%2522SQL%2522%2520edition%2520700287,0.1457774359110962,False,False,False
+test,benign_double_quote,0,"book ""SQL"" edition 429231",0.1406120919957523,False,False,False
+test,benign_double_quote,0,book%20%22SQL%22%20edition%20343027,0.1457774359110962,False,False,False
+test,benign_double_quote,0,book%2520%2522SQL%2522%2520edition%2520422947,0.1457774359110962,False,False,False
+test,benign_double_quote,0,"book ""SQL"" edition 732076",0.1406120919957523,False,False,False
+test,benign_double_quote,0,book%20%22SQL%22%20edition%20311016,0.1457774359110962,False,False,False
+test,benign_double_quote,0,book%2520%2522SQL%2522%2520edition%2520582343,0.1457774359110962,False,False,False
+test,benign_double_quote,0,"book ""SQL"" edition 134470",0.1406120919957523,False,False,False
+test,benign_double_quote,0,book%20%22SQL%22%20edition%20202158,0.1457774359110962,False,False,False
+test,benign_double_quote,0,book%2520%2522SQL%2522%2520edition%2520441869,0.1457774359110962,False,False,False
+test,benign_double_quote,0,"book ""SQL"" edition 698229",0.1406120919957523,False,False,False
+test,benign_double_quote,0,book%20%22SQL%22%20edition%20987042,0.1457774359110962,False,False,False
+test,benign_double_quote,0,book%2520%2522SQL%2522%2520edition%2520398562,0.1457774359110962,False,False,False
+test,benign_double_quote,0,"book ""SQL"" edition 711219",0.1406120919957523,False,False,False
+test,benign_double_quote,0,book%20%22SQL%22%20edition%20785475,0.1457774359110962,False,False,False
+test,benign_double_quote,0,book%2520%2522SQL%2522%2520edition%2520947660,0.1457774359110962,False,False,False
+test,benign_double_quote,0,"book ""SQL"" edition 183480",0.1406120919957523,False,False,False
+test,benign_double_quote,0,book%20%22SQL%22%20edition%20646414,0.1457774359110962,False,False,False
+test,benign_double_quote,0,book%2520%2522SQL%2522%2520edition%2520597750,0.1457774359110962,False,False,False
+test,benign_double_quote,0,"book ""SQL"" edition 316568",0.1406120919957523,False,False,False
+test,benign_double_quote,0,book%20%22SQL%22%20edition%20426800,0.1457774359110962,False,False,False
+test,benign_double_quote,0,book%2520%2522SQL%2522%2520edition%2520575553,0.1457774359110962,False,False,False
+test,sql_whitespace,1,"875224'	UNION
+SELECT id, name FROM products --",0.9095223865707776,True,True,True
+test,sql_whitespace,1,1425%27%09UNION%0ASELECT%20id%2C%20name%20FROM%20products%20--,0.8755663426147337,True,True,True
+test,sql_whitespace,1,319635%2527%2509UNION%250ASELECT%2520id%252C%2520name%2520FROM%2520products%2520--,0.8755663426147337,True,True,True
+test,sql_whitespace,1,"301850'	UNION
+SELECT id, name FROM products --",0.9095223865707776,True,True,True
+test,sql_whitespace,1,221392%27%09UNION%0ASELECT%20id%2C%20name%20FROM%20products%20--,0.8755663426147337,True,True,True
+test,sql_whitespace,1,451770%2527%2509UNION%250ASELECT%2520id%252C%2520name%2520FROM%2520products%2520--,0.8755663426147337,True,True,True
+test,sql_whitespace,1,"824927'	UNION
+SELECT id, name FROM products --",0.9095223865707776,True,True,True
+test,sql_whitespace,1,609158%27%09UNION%0ASELECT%20id%2C%20name%20FROM%20products%20--,0.8755663426147337,True,True,True
+test,sql_whitespace,1,637130%2527%2509UNION%250ASELECT%2520id%252C%2520name%2520FROM%2520products%2520--,0.8755663426147337,True,True,True
+test,sql_whitespace,1,"687508'	UNION
+SELECT id, name FROM products --",0.9095223865707776,True,True,True
+test,sql_whitespace,1,338902%27%09UNION%0ASELECT%20id%2C%20name%20FROM%20products%20--,0.8755663426147337,True,True,True
+test,sql_whitespace,1,488575%2527%2509UNION%250ASELECT%2520id%252C%2520name%2520FROM%2520products%2520--,0.8755663426147337,True,True,True
+test,sql_whitespace,1,"464246'	UNION
+SELECT id, name FROM products --",0.9095223865707776,True,True,True
+test,sql_whitespace,1,464638%27%09UNION%0ASELECT%20id%2C%20name%20FROM%20products%20--,0.8755663426147337,True,True,True
+test,sql_whitespace,1,709446%2527%2509UNION%250ASELECT%2520id%252C%2520name%2520FROM%2520products%2520--,0.8755663426147337,True,True,True
+test,sql_whitespace,1,"225082'	UNION
+SELECT id, name FROM products --",0.9095223865707776,True,True,True
+test,sql_whitespace,1,537004%27%09UNION%0ASELECT%20id%2C%20name%20FROM%20products%20--,0.8755663426147337,True,True,True
+test,sql_whitespace,1,497171%2527%2509UNION%250ASELECT%2520id%252C%2520name%2520FROM%2520products%2520--,0.8755663426147337,True,True,True
+test,sql_whitespace,1,"833291'	UNION
+SELECT id, name FROM products --",0.9095223865707776,True,True,True
+test,sql_whitespace,1,945956%27%09UNION%0ASELECT%20id%2C%20name%20FROM%20products%20--,0.8755663426147337,True,True,True
+test,sql_whitespace,1,835692%2527%2509UNION%250ASELECT%2520id%252C%2520name%2520FROM%2520products%2520--,0.8755663426147337,True,True,True
+test,sql_whitespace,1,"772711'	UNION
+SELECT id, name FROM products --",0.9095223865707776,True,True,True
+test,sql_whitespace,1,178934%27%09UNION%0ASELECT%20id%2C%20name%20FROM%20products%20--,0.8755663426147337,True,True,True
+test,sql_whitespace,1,691855%2527%2509UNION%250ASELECT%2520id%252C%2520name%2520FROM%2520products%2520--,0.8755663426147337,True,True,True
+test,sql_whitespace,1,"89914'	UNION
+SELECT id, name FROM products --",0.9095223865707776,True,True,True
+test,sql_whitespace,1,298571%27%09UNION%0ASELECT%20id%2C%20name%20FROM%20products%20--,0.8755663426147337,True,True,True
+test,sql_whitespace,1,541490%2527%2509UNION%250ASELECT%2520id%252C%2520name%2520FROM%2520products%2520--,0.8755663426147337,True,True,True
+test,sql_whitespace,1,"697101'	UNION
+SELECT id, name FROM products --",0.9095223865707776,True,True,True
+test,sql_whitespace,1,664686%27%09UNION%0ASELECT%20id%2C%20name%20FROM%20products%20--,0.8755663426147337,True,True,True
+test,sql_whitespace,1,650342%2527%2509UNION%250ASELECT%2520id%252C%2520name%2520FROM%2520products%2520--,0.8755663426147337,True,True,True
+test,sql_update,1,352470'; UPDATE imaginary_table SET item=1; --,0.9372155407042594,True,True,True
+test,sql_update,1,98923%27%3B%20UPDATE%20imaginary_table%20SET%20item%3D1%3B%20--,0.8803551820458486,True,True,True
+test,sql_update,1,859179%2527%253B%2520UPDATE%2520imaginary_table%2520SET%2520item%253D1%253B%2520--,0.9133693868581055,True,True,True
+test,sql_update,1,999243'; UPDATE imaginary_table SET item=1; --,0.9372155407042594,True,True,True
+test,sql_update,1,788625%27%3B%20UPDATE%20imaginary_table%20SET%20item%3D1%3B%20--,0.9133693868581055,True,True,True
+test,sql_update,1,247277%2527%253B%2520UPDATE%2520imaginary_table%2520SET%2520item%253D1%253B%2520--,0.9133693868581055,True,True,True
+test,sql_update,1,706477'; UPDATE imaginary_table SET item=1; --,0.9372155407042594,True,True,True
+test,sql_update,1,326498%27%3B%20UPDATE%20imaginary_table%20SET%20item%3D1%3B%20--,0.9133693868581055,True,True,True
+test,sql_update,1,236552%2527%253B%2520UPDATE%2520imaginary_table%2520SET%2520item%253D1%253B%2520--,0.9133693868581055,True,True,True
+test,sql_update,1,846742'; UPDATE imaginary_table SET item=1; --,0.9372155407042594,True,True,True
+test,sql_update,1,209802%27%3B%20UPDATE%20imaginary_table%20SET%20item%3D1%3B%20--,0.9133693868581055,True,True,True
+test,sql_update,1,155511%2527%253B%2520UPDATE%2520imaginary_table%2520SET%2520item%253D1%253B%2520--,0.9133693868581055,True,True,True
+test,sql_update,1,26611'; UPDATE imaginary_table SET item=1; --,0.9063495535280249,True,True,True
+test,sql_update,1,49458%27%3B%20UPDATE%20imaginary_table%20SET%20item%3D1%3B%20--,0.8803551820458486,True,True,True
+test,sql_update,1,257736%2527%253B%2520UPDATE%2520imaginary_table%2520SET%2520item%253D1%253B%2520--,0.9133693868581055,True,True,True
+test,sql_update,1,499216'; UPDATE imaginary_table SET item=1; --,0.9372155407042594,True,True,True
+test,sql_update,1,641967%27%3B%20UPDATE%20imaginary_table%20SET%20item%3D1%3B%20--,0.9133693868581055,True,True,True
+test,sql_update,1,892014%2527%253B%2520UPDATE%2520imaginary_table%2520SET%2520item%253D1%253B%2520--,0.9133693868581055,True,True,True
+test,sql_update,1,806819'; UPDATE imaginary_table SET item=1; --,0.9372155407042594,True,True,True
+test,sql_update,1,77365%27%3B%20UPDATE%20imaginary_table%20SET%20item%3D1%3B%20--,0.8803551820458486,True,True,True
+test,sql_update,1,478538%2527%253B%2520UPDATE%2520imaginary_table%2520SET%2520item%253D1%253B%2520--,0.9133693868581055,True,True,True
+test,sql_update,1,435572'; UPDATE imaginary_table SET item=1; --,0.9372155407042594,True,True,True
+test,sql_update,1,930181%27%3B%20UPDATE%20imaginary_table%20SET%20item%3D1%3B%20--,0.9133693868581055,True,True,True
+test,sql_update,1,661356%2527%253B%2520UPDATE%2520imaginary_table%2520SET%2520item%253D1%253B%2520--,0.9133693868581055,True,True,True
+test,sql_update,1,604634'; UPDATE imaginary_table SET item=1; --,0.9372155407042594,True,True,True
+test,sql_update,1,204880%27%3B%20UPDATE%20imaginary_table%20SET%20item%3D1%3B%20--,0.9133693868581055,True,True,True
+test,sql_update,1,754240%2527%253B%2520UPDATE%2520imaginary_table%2520SET%2520item%253D1%253B%2520--,0.9133693868581055,True,True,True
+test,sql_update,1,731180'; UPDATE imaginary_table SET item=1; --,0.9372155407042594,True,True,True
+test,sql_update,1,403630%27%3B%20UPDATE%20imaginary_table%20SET%20item%3D1%3B%20--,0.9133693868581055,True,True,True
+test,sql_update,1,519392%2527%253B%2520UPDATE%2520imaginary_table%2520SET%2520item%253D1%253B%2520--,0.9133693868581055,True,True,True
+test,sql_obfuscated_comment,1,420066' UNI/**/ON SEL/**/ECT name FROM products --,0.8266962996142558,False,True,True
+test,sql_obfuscated_comment,1,256836%27%20UNI%2F%2A%2A%2FON%20SEL%2F%2A%2A%2FECT%20name%20FROM%20products%20--,0.8027402556582117,False,True,True
+test,sql_obfuscated_comment,1,155739%2527%2520UNI%252F%252A%252A%252FON%2520SEL%252F%252A%252A%252FECT%2520name%2520FROM%2520products%2520--,0.8027402556582117,False,True,True
+test,sql_obfuscated_comment,1,688926' UNI/**/ON SEL/**/ECT name FROM products --,0.8266962996142558,False,True,True
+test,sql_obfuscated_comment,1,722024%27%20UNI%2F%2A%2A%2FON%20SEL%2F%2A%2A%2FECT%20name%20FROM%20products%20--,0.8027402556582117,False,True,True
+test,sql_obfuscated_comment,1,6814%2527%2520UNI%252F%252A%252A%252FON%2520SEL%252F%252A%252A%252FECT%2520name%2520FROM%2520products%2520--,0.8027402556582117,False,True,True
+test,sql_obfuscated_comment,1,937021' UNI/**/ON SEL/**/ECT name FROM products --,0.8266962996142558,False,True,True
+test,sql_obfuscated_comment,1,788443%27%20UNI%2F%2A%2A%2FON%20SEL%2F%2A%2A%2FECT%20name%20FROM%20products%20--,0.8027402556582117,False,True,True
+test,sql_obfuscated_comment,1,903237%2527%2520UNI%252F%252A%252A%252FON%2520SEL%252F%252A%252A%252FECT%2520name%2520FROM%2520products%2520--,0.8027402556582117,False,True,True
+test,sql_obfuscated_comment,1,808451' UNI/**/ON SEL/**/ECT name FROM products --,0.8266962996142558,False,True,True
+test,sql_obfuscated_comment,1,929477%27%20UNI%2F%2A%2A%2FON%20SEL%2F%2A%2A%2FECT%20name%20FROM%20products%20--,0.8027402556582117,False,True,True
+test,sql_obfuscated_comment,1,112764%2527%2520UNI%252F%252A%252A%252FON%2520SEL%252F%252A%252A%252FECT%2520name%2520FROM%2520products%2520--,0.8027402556582117,False,True,True
+test,sql_obfuscated_comment,1,817232' UNI/**/ON SEL/**/ECT name FROM products --,0.8266962996142558,False,True,True
+test,sql_obfuscated_comment,1,446798%27%20UNI%2F%2A%2A%2FON%20SEL%2F%2A%2A%2FECT%20name%20FROM%20products%20--,0.8027402556582117,False,True,True
+test,sql_obfuscated_comment,1,230471%2527%2520UNI%252F%252A%252A%252FON%2520SEL%252F%252A%252A%252FECT%2520name%2520FROM%2520products%2520--,0.8027402556582117,False,True,True
+test,sql_obfuscated_comment,1,185430' UNI/**/ON SEL/**/ECT name FROM products --,0.8266962996142558,False,True,True
+test,sql_obfuscated_comment,1,844170%27%20UNI%2F%2A%2A%2FON%20SEL%2F%2A%2A%2FECT%20name%20FROM%20products%20--,0.8027402556582117,False,True,True
+test,sql_obfuscated_comment,1,730716%2527%2520UNI%252F%252A%252A%252FON%2520SEL%252F%252A%252A%252FECT%2520name%2520FROM%2520products%2520--,0.8027402556582117,False,True,True
+test,sql_obfuscated_comment,1,544118' UNI/**/ON SEL/**/ECT name FROM products --,0.8266962996142558,False,True,True
+test,sql_obfuscated_comment,1,488115%27%20UNI%2F%2A%2A%2FON%20SEL%2F%2A%2A%2FECT%20name%20FROM%20products%20--,0.8027402556582117,False,True,True
+test,sql_obfuscated_comment,1,53657%2527%2520UNI%252F%252A%252A%252FON%2520SEL%252F%252A%252A%252FECT%2520name%2520FROM%2520products%2520--,0.8027402556582117,False,True,True
+test,sql_obfuscated_comment,1,585482' UNI/**/ON SEL/**/ECT name FROM products --,0.8266962996142558,False,True,True
+test,sql_obfuscated_comment,1,262303%27%20UNI%2F%2A%2A%2FON%20SEL%2F%2A%2A%2FECT%20name%20FROM%20products%20--,0.8027402556582117,False,True,True
+test,sql_obfuscated_comment,1,963037%2527%2520UNI%252F%252A%252A%252FON%2520SEL%252F%252A%252A%252FECT%2520name%2520FROM%2520products%2520--,0.8027402556582117,False,True,True
+test,sql_obfuscated_comment,1,890545' UNI/**/ON SEL/**/ECT name FROM products --,0.8266962996142558,False,True,True
+test,sql_obfuscated_comment,1,128253%27%20UNI%2F%2A%2A%2FON%20SEL%2F%2A%2A%2FECT%20name%20FROM%20products%20--,0.8027402556582117,False,True,True
+test,sql_obfuscated_comment,1,479634%2527%2520UNI%252F%252A%252A%252FON%2520SEL%252F%252A%252A%252FECT%2520name%2520FROM%2520products%2520--,0.8027402556582117,False,True,True
+test,sql_obfuscated_comment,1,140816' UNI/**/ON SEL/**/ECT name FROM products --,0.8266962996142558,False,True,True
+test,sql_obfuscated_comment,1,841346%27%20UNI%2F%2A%2A%2FON%20SEL%2F%2A%2A%2FECT%20name%20FROM%20products%20--,0.8027402556582117,False,True,True
+test,sql_obfuscated_comment,1,488213%2527%2520UNI%252F%252A%252A%252FON%2520SEL%252F%252A%252A%252FECT%2520name%2520FROM%2520products%2520--,0.8027402556582117,False,True,True
+test,xss_svg,1,<svg onload=alert(701005)></svg>,0.984721692415284,True,True,True
+test,xss_svg,1,%3Csvg%20onload%3Dalert%28557932%29%3E%3C%2Fsvg%3E,0.9793920220856136,True,True,True
+test,xss_svg,1,%253Csvg%2520onload%253Dalert%2528587075%2529%253E%253C%252Fsvg%253E,0.9793920220856136,True,True,True
+test,xss_svg,1,<svg onload=alert(625377)></svg>,0.984721692415284,True,True,True
+test,xss_svg,1,%3Csvg%20onload%3Dalert%28333711%29%3E%3C%2Fsvg%3E,0.9793920220856136,True,True,True
+test,xss_svg,1,%253Csvg%2520onload%253Dalert%2528997188%2529%253E%253C%252Fsvg%253E,0.9793920220856136,True,True,True
+test,xss_svg,1,<svg onload=alert(792937)></svg>,0.984721692415284,True,True,True
+test,xss_svg,1,%3Csvg%20onload%3Dalert%28935727%29%3E%3C%2Fsvg%3E,0.9793920220856136,True,True,True
+test,xss_svg,1,%253Csvg%2520onload%253Dalert%2528465071%2529%253E%253C%252Fsvg%253E,0.9793920220856136,True,True,True
+test,xss_svg,1,<svg onload=alert(643412)></svg>,0.984721692415284,True,True,True
+test,xss_svg,1,%3Csvg%20onload%3Dalert%28855596%29%3E%3C%2Fsvg%3E,0.9793920220856136,True,True,True
+test,xss_svg,1,%253Csvg%2520onload%253Dalert%2528755213%2529%253E%253C%252Fsvg%253E,0.9793920220856136,True,True,True
+test,xss_svg,1,<svg onload=alert(936351)></svg>,0.984721692415284,True,True,True
+test,xss_svg,1,%3Csvg%20onload%3Dalert%28530298%29%3E%3C%2Fsvg%3E,0.9793920220856136,True,True,True
+test,xss_svg,1,%253Csvg%2520onload%253Dalert%2528448470%2529%253E%253C%252Fsvg%253E,0.9793920220856136,True,True,True
+test,xss_svg,1,<svg onload=alert(871914)></svg>,0.984721692415284,True,True,True
+test,xss_svg,1,%3Csvg%20onload%3Dalert%28951906%29%3E%3C%2Fsvg%3E,0.9793920220856136,True,True,True
+test,xss_svg,1,%253Csvg%2520onload%253Dalert%2528575485%2529%253E%253C%252Fsvg%253E,0.9793920220856136,True,True,True
+test,xss_svg,1,<svg onload=alert(468574)></svg>,0.984721692415284,True,True,True
+test,xss_svg,1,%3Csvg%20onload%3Dalert%28941790%29%3E%3C%2Fsvg%3E,0.9793920220856136,True,True,True
+test,xss_svg,1,%253Csvg%2520onload%253Dalert%2528167889%2529%253E%253C%252Fsvg%253E,0.9793920220856136,True,True,True
+test,xss_svg,1,<svg onload=alert(780779)></svg>,0.984721692415284,True,True,True
+test,xss_svg,1,%3Csvg%20onload%3Dalert%28904342%29%3E%3C%2Fsvg%3E,0.9793920220856136,True,True,True
+test,xss_svg,1,%253Csvg%2520onload%253Dalert%2528498732%2529%253E%253C%252Fsvg%253E,0.9793920220856136,True,True,True
+test,xss_svg,1,<svg onload=alert(472932)></svg>,0.984721692415284,True,True,True
+test,xss_svg,1,%3Csvg%20onload%3Dalert%28272782%29%3E%3C%2Fsvg%3E,0.9793920220856136,True,True,True
+test,xss_svg,1,%253Csvg%2520onload%253Dalert%2528789295%2529%253E%253C%252Fsvg%253E,0.9793920220856136,True,True,True
+test,xss_svg,1,<svg onload=alert(260249)></svg>,0.984721692415284,True,True,True
+test,xss_svg,1,%3Csvg%20onload%3Dalert%28881660%29%3E%3C%2Fsvg%3E,0.9793920220856136,True,True,True
+test,xss_svg,1,%253Csvg%2520onload%253Dalert%2528669636%2529%253E%253C%252Fsvg%253E,0.9793920220856136,True,True,True
+test,xss_link,1,<a href='javascript:alert(291782)'>sample</a>,0.8454098360655737,True,True,True
+test,xss_link,1,%3Ca%20href%3D%27javascript%3Aalert%28804013%29%27%3Esample%3C%2Fa%3E,0.8454098360655737,True,True,True
+test,xss_link,1,%253Ca%2520href%253D%2527javascript%253Aalert%2528816451%2529%2527%253Esample%253C%252Fa%253E,0.8454098360655737,True,True,True
+test,xss_link,1,<a href='javascript:alert(547622)'>sample</a>,0.8454098360655737,True,True,True
+test,xss_link,1,%3Ca%20href%3D%27javascript%3Aalert%28509136%29%27%3Esample%3C%2Fa%3E,0.8454098360655737,True,True,True
+test,xss_link,1,%253Ca%2520href%253D%2527javascript%253Aalert%2528658193%2529%2527%253Esample%253C%252Fa%253E,0.8454098360655737,True,True,True
+test,xss_link,1,<a href='javascript:alert(251867)'>sample</a>,0.8454098360655737,True,True,True
+test,xss_link,1,%3Ca%20href%3D%27javascript%3Aalert%28288936%29%27%3Esample%3C%2Fa%3E,0.8454098360655737,True,True,True
+test,xss_link,1,%253Ca%2520href%253D%2527javascript%253Aalert%2528462239%2529%2527%253Esample%253C%252Fa%253E,0.8454098360655737,True,True,True
+test,xss_link,1,<a href='javascript:alert(82247)'>sample</a>,0.8454098360655737,True,True,True
+test,xss_link,1,%3Ca%20href%3D%27javascript%3Aalert%28749206%29%27%3Esample%3C%2Fa%3E,0.8454098360655737,True,True,True
+test,xss_link,1,%253Ca%2520href%253D%2527javascript%253Aalert%2528300607%2529%2527%253Esample%253C%252Fa%253E,0.8454098360655737,True,True,True
+test,xss_link,1,<a href='javascript:alert(246884)'>sample</a>,0.8454098360655737,True,True,True
+test,xss_link,1,%3Ca%20href%3D%27javascript%3Aalert%28285913%29%27%3Esample%3C%2Fa%3E,0.8454098360655737,True,True,True
+test,xss_link,1,%253Ca%2520href%253D%2527javascript%253Aalert%2528353161%2529%2527%253Esample%253C%252Fa%253E,0.8454098360655737,True,True,True
+test,xss_link,1,<a href='javascript:alert(336239)'>sample</a>,0.8454098360655737,True,True,True
+test,xss_link,1,%3Ca%20href%3D%27javascript%3Aalert%28937406%29%27%3Esample%3C%2Fa%3E,0.8454098360655737,True,True,True
+test,xss_link,1,%253Ca%2520href%253D%2527javascript%253Aalert%2528567390%2529%2527%253Esample%253C%252Fa%253E,0.8454098360655737,True,True,True
+test,xss_link,1,<a href='javascript:alert(85491)'>sample</a>,0.8454098360655737,True,True,True
+test,xss_link,1,%3Ca%20href%3D%27javascript%3Aalert%28146095%29%27%3Esample%3C%2Fa%3E,0.8454098360655737,True,True,True
+test,xss_link,1,%253Ca%2520href%253D%2527javascript%253Aalert%2528159157%2529%2527%253Esample%253C%252Fa%253E,0.8454098360655737,True,True,True
+test,xss_link,1,<a href='javascript:alert(243495)'>sample</a>,0.8454098360655737,True,True,True
+test,xss_link,1,%3Ca%20href%3D%27javascript%3Aalert%28402641%29%27%3Esample%3C%2Fa%3E,0.8454098360655737,True,True,True
+test,xss_link,1,%253Ca%2520href%253D%2527javascript%253Aalert%2528728659%2529%2527%253Esample%253C%252Fa%253E,0.8454098360655737,True,True,True
+test,xss_link,1,<a href='javascript:alert(161227)'>sample</a>,0.8454098360655737,True,True,True
+test,xss_link,1,%3Ca%20href%3D%27javascript%3Aalert%28741734%29%27%3Esample%3C%2Fa%3E,0.8454098360655737,True,True,True
+test,xss_link,1,%253Ca%2520href%253D%2527javascript%253Aalert%2528225345%2529%2527%253Esample%253C%252Fa%253E,0.8454098360655737,True,True,True
+test,xss_link,1,<a href='javascript:alert(68348)'>sample</a>,0.8454098360655737,True,True,True
+test,xss_link,1,%3Ca%20href%3D%27javascript%3Aalert%28436020%29%27%3Esample%3C%2Fa%3E,0.8454098360655737,True,True,True
+test,xss_link,1,%253Ca%2520href%253D%2527javascript%253Aalert%2528428398%2529%2527%253Esample%253C%252Fa%253E,0.8454098360655737,True,True,True
+test,xss_entity,1,&#60;script&#62;alert(347954)&#60;/script&#62;,0.9991690346177102,True,True,True
+test,xss_entity,1,%26%2360%3Bscript%26%2362%3Balert%28569969%29%26%2360%3B%2Fscript%26%2362%3B,0.9938393642880399,True,True,True
+test,xss_entity,1,%2526%252360%253Bscript%2526%252362%253Balert%2528489557%2529%2526%252360%253B%252Fscript%2526%252362%253B,0.9938393642880399,True,True,True
+test,xss_entity,1,&#60;script&#62;alert(436970)&#60;/script&#62;,0.9991690346177102,True,True,True
+test,xss_entity,1,%26%2360%3Bscript%26%2362%3Balert%2866290%29%26%2360%3B%2Fscript%26%2362%3B,0.9940380397847286,True,True,True
+test,xss_entity,1,%2526%252360%253Bscript%2526%252362%253Balert%2528217881%2529%2526%252360%253B%252Fscript%2526%252362%253B,0.9938393642880399,True,True,True
+test,xss_entity,1,&#60;script&#62;alert(874349)&#60;/script&#62;,0.9991690346177102,True,True,True
+test,xss_entity,1,%26%2360%3Bscript%26%2362%3Balert%28441552%29%26%2360%3B%2Fscript%26%2362%3B,0.9938393642880399,True,True,True
+test,xss_entity,1,%2526%252360%253Bscript%2526%252362%253Balert%2528409396%2529%2526%252360%253B%252Fscript%2526%252362%253B,0.9938393642880399,True,True,True
+test,xss_entity,1,&#60;script&#62;alert(949791)&#60;/script&#62;,0.9991690346177102,True,True,True
+test,xss_entity,1,%26%2360%3Bscript%26%2362%3Balert%28808189%29%26%2360%3B%2Fscript%26%2362%3B,0.9938393642880399,True,True,True
+test,xss_entity,1,%2526%252360%253Bscript%2526%252362%253Balert%2528613451%2529%2526%252360%253B%252Fscript%2526%252362%253B,0.9938393642880399,True,True,True
+test,xss_entity,1,&#60;script&#62;alert(993017)&#60;/script&#62;,0.9991690346177102,True,True,True
+test,xss_entity,1,%26%2360%3Bscript%26%2362%3Balert%28730308%29%26%2360%3B%2Fscript%26%2362%3B,0.9938393642880399,True,True,True
+test,xss_entity,1,%2526%252360%253Bscript%2526%252362%253Balert%252821480%2529%2526%252360%253B%252Fscript%2526%252362%253B,0.9940380397847286,True,True,True
+test,xss_entity,1,&#60;script&#62;alert(899348)&#60;/script&#62;,0.9991690346177102,True,True,True
+test,xss_entity,1,%26%2360%3Bscript%26%2362%3Balert%28924435%29%26%2360%3B%2Fscript%26%2362%3B,0.9938393642880399,True,True,True
+test,xss_entity,1,%2526%252360%253Bscript%2526%252362%253Balert%2528803784%2529%2526%252360%253B%252Fscript%2526%252362%253B,0.9938393642880399,True,True,True
+test,xss_entity,1,&#60;script&#62;alert(604655)&#60;/script&#62;,0.9991690346177102,True,True,True
+test,xss_entity,1,%26%2360%3Bscript%26%2362%3Balert%28399858%29%26%2360%3B%2Fscript%26%2362%3B,0.9938393642880399,True,True,True
+test,xss_entity,1,%2526%252360%253Bscript%2526%252362%253Balert%2528501149%2529%2526%252360%253B%252Fscript%2526%252362%253B,0.9938393642880399,True,True,True
+test,xss_entity,1,&#60;script&#62;alert(7182)&#60;/script&#62;,0.9395779904882307,True,True,True
+test,xss_entity,1,%26%2360%3Bscript%26%2362%3Balert%28989536%29%26%2360%3B%2Fscript%26%2362%3B,0.9938393642880399,True,True,True
+test,xss_entity,1,%2526%252360%253Bscript%2526%252362%253Balert%2528369845%2529%2526%252360%253B%252Fscript%2526%252362%253B,0.9938393642880399,True,True,True
+test,xss_entity,1,&#60;script&#62;alert(314118)&#60;/script&#62;,0.9991690346177102,True,True,True
+test,xss_entity,1,%26%2360%3Bscript%26%2362%3Balert%28791075%29%26%2360%3B%2Fscript%26%2362%3B,0.9938393642880399,True,True,True
+test,xss_entity,1,%2526%252360%253Bscript%2526%252362%253Balert%2528409930%2529%2526%252360%253B%252Fscript%2526%252362%253B,0.9938393642880399,True,True,True
+test,xss_entity,1,&#60;script&#62;alert(895905)&#60;/script&#62;,0.9991690346177102,True,True,True
+test,xss_entity,1,%26%2360%3Bscript%26%2362%3Balert%28935953%29%26%2360%3B%2Fscript%26%2362%3B,0.9938393642880399,True,True,True
+test,xss_entity,1,%2526%252360%253Bscript%2526%252362%253Balert%2528877325%2529%2526%252360%253B%252Fscript%2526%252362%253B,0.9938393642880399,True,True,True

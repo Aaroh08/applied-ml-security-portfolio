@@ -1,0 +1,32 @@
+{
+  "seed": 42,
+  "threshold": 0.5,
+  "features": [
+    "length",
+    "single_quotes",
+    "double_quotes",
+    "angle_brackets",
+    "semicolons",
+    "equals",
+    "percent_signs",
+    "digits_ratio",
+    "sql_keywords",
+    "script_keywords",
+    "comment_markers",
+    "parentheses"
+  ],
+  "source": "Authored synthetic templates in train.py; no real traffic or external probes",
+  "split_policy": "Disjoint named template families; variants remain within family split",
+  "family_counts": {
+    "train": 11,
+    "validation": 8,
+    "test": 12
+  },
+  "rows": {
+    "test": 360,
+    "train": 330,
+    "validation": 240
+  },
+  "csv_sha256": "0cebf763f49f2193b17d4cb326c25bd806b5fb07507abe75e86d3854e0f11bcf",
+  "limitations": "Synthetic patterns overlap feature/rule design. Metrics do not estimate production detection. Benign code examples deliberately test false positives."
+}

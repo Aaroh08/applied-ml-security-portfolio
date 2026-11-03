@@ -1,0 +1,331 @@
+split,family,label,payload,model_score,rules_block,rf_block,combined_block
+train,benign_catalog,0,notebook 671487,0.0002606349893176838,False,False,False
+train,benign_catalog,0,notebook%20117739,0.0006452503739330684,False,False,False
+train,benign_catalog,0,notebook%252027225,0.0002606349893176838,False,False,False
+train,benign_catalog,0,notebook 778572,0.0002606349893176838,False,False,False
+train,benign_catalog,0,notebook%20289389,0.0006452503739330684,False,False,False
+train,benign_catalog,0,notebook%2520257787,0.0006452503739330684,False,False,False
+train,benign_catalog,0,notebook 235053,0.0002606349893176838,False,False,False
+train,benign_catalog,0,notebook%20147316,0.0006452503739330684,False,False,False
+train,benign_catalog,0,notebook%2520773246,0.0006452503739330684,False,False,False
+train,benign_catalog,0,notebook 108473,0.0002606349893176838,False,False,False
+train,benign_catalog,0,notebook%20710570,0.0006452503739330684,False,False,False
+train,benign_catalog,0,notebook%2520777646,0.0006452503739330684,False,False,False
+train,benign_catalog,0,notebook 936518,0.0002606349893176838,False,False,False
+train,benign_catalog,0,notebook%20572858,0.0006452503739330684,False,False,False
+train,benign_catalog,0,notebook%252092161,0.0002606349893176838,False,False,False
+train,benign_catalog,0,notebook 620176,0.0002606349893176838,False,False,False
+train,benign_catalog,0,notebook%20443417,0.0006452503739330684,False,False,False
+train,benign_catalog,0,notebook%252034326,0.0002606349893176838,False,False,False
+train,benign_catalog,0,notebook 32244,0.0002606349893176838,False,False,False
+train,benign_catalog,0,notebook%2099246,0.0002606349893176838,False,False,False
+train,benign_catalog,0,notebook%2520230258,0.0006452503739330684,False,False,False
+train,benign_catalog,0,notebook 244962,0.0002606349893176838,False,False,False
+train,benign_catalog,0,notebook%20530903,0.0006452503739330684,False,False,False
+train,benign_catalog,0,notebook%2520632262,0.0006452503739330684,False,False,False
+train,benign_catalog,0,notebook 28824,0.0002606349893176838,False,False,False
+train,benign_catalog,0,notebook%20589508,0.0006452503739330684,False,False,False
+train,benign_catalog,0,notebook%2520209496,0.0006452503739330684,False,False,False
+train,benign_catalog,0,notebook 751800,0.0002606349893176838,False,False,False
+train,benign_catalog,0,notebook%20682453,0.0006452503739330684,False,False,False
+train,benign_catalog,0,notebook%2520736392,0.0006452503739330684,False,False,False
+train,benign_name,0,O'Reilly volume 572412,0.0002606349893176838,False,False,False
+train,benign_name,0,O%27Reilly%20volume%20440898,0.0004606349893176838,False,False,False
+train,benign_name,0,O%2527Reilly%2520volume%2520232148,0.0004606349893176838,False,False,False
+train,benign_name,0,O'Reilly volume 472029,0.0002606349893176838,False,False,False
+train,benign_name,0,O%27Reilly%20volume%20618889,0.0004606349893176838,False,False,False
+train,benign_name,0,O%2527Reilly%2520volume%2520292704,0.0004606349893176838,False,False,False
+train,benign_name,0,O'Reilly volume 849749,0.0002606349893176838,False,False,False
+train,benign_name,0,O%27Reilly%20volume%20912527,0.0004606349893176838,False,False,False
+train,benign_name,0,O%2527Reilly%2520volume%25207814,0.11675275472589862,False,False,False
+train,benign_name,0,O'Reilly volume 796667,0.0002606349893176838,False,False,False
+train,benign_name,0,O%27Reilly%20volume%20845962,0.0004606349893176838,False,False,False
+train,benign_name,0,O%2527Reilly%2520volume%2520168414,0.0004606349893176838,False,False,False
+train,benign_name,0,O'Reilly volume 733052,0.0002606349893176838,False,False,False
+train,benign_name,0,O%27Reilly%20volume%20444143,0.0004606349893176838,False,False,False
+train,benign_name,0,O%2527Reilly%2520volume%2520357778,0.0004606349893176838,False,False,False
+train,benign_name,0,O'Reilly volume 292369,0.0002606349893176838,False,False,False
+train,benign_name,0,O%27Reilly%20volume%20164032,0.0004606349893176838,False,False,False
+train,benign_name,0,O%2527Reilly%2520volume%2520226772,0.0004606349893176838,False,False,False
+train,benign_name,0,O'Reilly volume 801581,0.0002606349893176838,False,False,False
+train,benign_name,0,O%27Reilly%20volume%20353944,0.0004606349893176838,False,False,False
+train,benign_name,0,O%2527Reilly%2520volume%2520108175,0.0004606349893176838,False,False,False
+train,benign_name,0,O'Reilly volume 98251,0.11553100544059713,False,False,False
+train,benign_name,0,O%27Reilly%20volume%20399382,0.0004606349893176838,False,False,False
+train,benign_name,0,O%2527Reilly%2520volume%2520102414,0.0004606349893176838,False,False,False
+train,benign_name,0,O'Reilly volume 377417,0.0002606349893176838,False,False,False
+train,benign_name,0,O%27Reilly%20volume%20889662,0.0004606349893176838,False,False,False
+train,benign_name,0,O%2527Reilly%2520volume%2520361663,0.0004606349893176838,False,False,False
+train,benign_name,0,O'Reilly volume 634052,0.0002606349893176838,False,False,False
+train,benign_name,0,O%27Reilly%20volume%20278370,0.0004606349893176838,False,False,False
+train,benign_name,0,O%2527Reilly%2520volume%2520847335,0.0004606349893176838,False,False,False
+train,benign_sentence,0,please select a blue or green folder 46561,0.013448546539516,False,False,False
+train,benign_sentence,0,please%20select%20a%20blue%20or%20green%20folder%20766179,0.0011496334960377388,False,False,False
+train,benign_sentence,0,please%2520select%2520a%2520blue%2520or%2520green%2520folder%2520482741,0.0011496334960377388,False,False,False
+train,benign_sentence,0,please select a blue or green folder 563275,0.0011496334960377388,False,False,False
+train,benign_sentence,0,please%20select%20a%20blue%20or%20green%20folder%20131889,0.0011496334960377388,False,False,False
+train,benign_sentence,0,please%2520select%2520a%2520blue%2520or%2520green%2520folder%2520968096,0.0011496334960377388,False,False,False
+train,benign_sentence,0,please select a blue or green folder 397922,0.0011496334960377388,False,False,False
+train,benign_sentence,0,please%20select%20a%20blue%20or%20green%20folder%2083627,0.012829989838485071,False,False,False
+train,benign_sentence,0,please%2520select%2520a%2520blue%2520or%2520green%2520folder%2520579856,0.0011496334960377388,False,False,False
+train,benign_sentence,0,please select a blue or green folder 308419,0.0011496334960377388,False,False,False
+train,benign_sentence,0,please%20select%20a%20blue%20or%20green%20folder%20870693,0.0011496334960377388,False,False,False
+train,benign_sentence,0,please%2520select%2520a%2520blue%2520or%2520green%2520folder%2520660176,0.0011496334960377388,False,False,False
+train,benign_sentence,0,please select a blue or green folder 649564,0.0011496334960377388,False,False,False
+train,benign_sentence,0,please%20select%20a%20blue%20or%20green%20folder%20929463,0.0011496334960377388,False,False,False
+train,benign_sentence,0,please%2520select%2520a%2520blue%2520or%2520green%2520folder%2520904565,0.0011496334960377388,False,False,False
+train,benign_sentence,0,please select a blue or green folder 380201,0.0011496334960377388,False,False,False
+train,benign_sentence,0,please%20select%20a%20blue%20or%20green%20folder%20606397,0.0011496334960377388,False,False,False
+train,benign_sentence,0,please%2520select%2520a%2520blue%2520or%2520green%2520folder%2520202629,0.0011496334960377388,False,False,False
+train,benign_sentence,0,please select a blue or green folder 739797,0.0011496334960377388,False,False,False
+train,benign_sentence,0,please%20select%20a%20blue%20or%20green%20folder%2073933,0.012829989838485071,False,False,False
+train,benign_sentence,0,please%2520select%2520a%2520blue%2520or%2520green%2520folder%252049050,0.012829989838485071,False,False,False
+train,benign_sentence,0,please select a blue or green folder 694384,0.0011496334960377388,False,False,False
+train,benign_sentence,0,please%20select%20a%20blue%20or%20green%20folder%20239968,0.0011496334960377388,False,False,False
+train,benign_sentence,0,please%2520select%2520a%2520blue%2520or%2520green%2520folder%2520811620,0.0011496334960377388,False,False,False
+train,benign_sentence,0,please select a blue or green folder 304445,0.0011496334960377388,False,False,False
+train,benign_sentence,0,please%20select%20a%20blue%20or%20green%20folder%2084667,0.012829989838485071,False,False,False
+train,benign_sentence,0,please%2520select%2520a%2520blue%2520or%2520green%2520folder%2520897865,0.0011496334960377388,False,False,False
+train,benign_sentence,0,please select a blue or green folder 245098,0.0011496334960377388,False,False,False
+train,benign_sentence,0,please%20select%20a%20blue%20or%20green%20folder%20909573,0.0011496334960377388,False,False,False
+train,benign_sentence,0,please%2520select%2520a%2520blue%2520or%2520green%2520folder%2520106907,0.0011496334960377388,False,False,False
+train,benign_math,0,math 399591 < 999 and 999 > 399591,0.0,False,False,False
+train,benign_math,0,math%20292476%20%3C%20999%20and%20999%20%3E%20292476,0.0,False,False,False
+train,benign_math,0,math%2520476435%2520%253C%2520999%2520and%2520999%2520%253E%2520476435,0.0,False,False,False
+train,benign_math,0,math 667563 < 999 and 999 > 667563,0.0,False,False,False
+train,benign_math,0,math%20875628%20%3C%20999%20and%20999%20%3E%20875628,0.0,False,False,False
+train,benign_math,0,math%2520383554%2520%253C%2520999%2520and%2520999%2520%253E%2520383554,0.0,False,False,False
+train,benign_math,0,math 171555 < 999 and 999 > 171555,0.0,False,False,False
+train,benign_math,0,math%20389162%20%3C%20999%20and%20999%20%3E%20389162,0.0,False,False,False
+train,benign_math,0,math%2520373528%2520%253C%2520999%2520and%2520999%2520%253E%2520373528,0.0,False,False,False
+train,benign_math,0,math 220684 < 999 and 999 > 220684,0.0,False,False,False
+train,benign_math,0,math%20703729%20%3C%20999%20and%20999%20%3E%20703729,0.0,False,False,False
+train,benign_math,0,math%2520280946%2520%253C%2520999%2520and%2520999%2520%253E%2520280946,0.0,False,False,False
+train,benign_math,0,math 736911 < 999 and 999 > 736911,0.0,False,False,False
+train,benign_math,0,math%20983153%20%3C%20999%20and%20999%20%3E%20983153,0.0,False,False,False
+train,benign_math,0,math%2520717751%2520%253C%2520999%2520and%2520999%2520%253E%2520717751,0.0,False,False,False
+train,benign_math,0,math 680514 < 999 and 999 > 680514,0.0,False,False,False
+train,benign_math,0,math%2075870%20%3C%20999%20and%20999%20%3E%2075870,0.029027829162042086,False,False,False
+train,benign_math,0,math%2520639720%2520%253C%2520999%2520and%2520999%2520%253E%2520639720,0.0,False,False,False
+train,benign_math,0,math 666822 < 999 and 999 > 666822,0.0,False,False,False
+train,benign_math,0,math%20180451%20%3C%20999%20and%20999%20%3E%20180451,0.0,False,False,False
+train,benign_math,0,math%2520561086%2520%253C%2520999%2520and%2520999%2520%253E%2520561086,0.0,False,False,False
+train,benign_math,0,math 765544 < 999 and 999 > 765544,0.0,False,False,False
+train,benign_math,0,math%20257702%20%3C%20999%20and%20999%20%3E%20257702,0.0,False,False,False
+train,benign_math,0,math%2520172339%2520%253C%2520999%2520and%2520999%2520%253E%2520172339,0.0,False,False,False
+train,benign_math,0,math 485714 < 999 and 999 > 485714,0.0,False,False,False
+train,benign_math,0,math%20398887%20%3C%20999%20and%20999%20%3E%20398887,0.0,False,False,False
+train,benign_math,0,math%2520284060%2520%253C%2520999%2520and%2520999%2520%253E%2520284060,0.0,False,False,False
+train,benign_math,0,math 971342 < 999 and 999 > 971342,0.0,False,False,False
+train,benign_math,0,math%20672088%20%3C%20999%20and%20999%20%3E%20672088,0.0,False,False,False
+train,benign_math,0,math%2520722590%2520%253C%2520999%2520and%2520999%2520%253E%2520722590,0.0,False,False,False
+train,benign_note,0,meeting notes for item 585004; bring a pen,0.0006097560975609756,False,False,False
+train,benign_note,0,meeting%20notes%20for%20item%20231283%3B%20bring%20a%20pen,0.0,False,False,False
+train,benign_note,0,meeting%2520notes%2520for%2520item%2520718870%253B%2520bring%2520a%2520pen,0.0,False,False,False
+train,benign_note,0,meeting notes for item 341035; bring a pen,0.0006097560975609756,False,False,False
+train,benign_note,0,meeting%20notes%20for%20item%20884794%3B%20bring%20a%20pen,0.0,False,False,False
+train,benign_note,0,meeting%2520notes%2520for%2520item%2520806635%253B%2520bring%2520a%2520pen,0.0,False,False,False
+train,benign_note,0,meeting notes for item 814694; bring a pen,0.0006097560975609756,False,False,False
+train,benign_note,0,meeting%20notes%20for%20item%2059655%3B%20bring%20a%20pen,0.0019490254872563716,False,False,False
+train,benign_note,0,meeting%2520notes%2520for%2520item%2520241174%253B%2520bring%2520a%2520pen,0.0,False,False,False
+train,benign_note,0,meeting notes for item 862722; bring a pen,0.0006097560975609756,False,False,False
+train,benign_note,0,meeting%20notes%20for%20item%2034659%3B%20bring%20a%20pen,0.0019490254872563716,False,False,False
+train,benign_note,0,meeting%2520notes%2520for%2520item%2520845151%253B%2520bring%2520a%2520pen,0.0,False,False,False
+train,benign_note,0,meeting notes for item 331776; bring a pen,0.0006097560975609756,False,False,False
+train,benign_note,0,meeting%20notes%20for%20item%20421651%3B%20bring%20a%20pen,0.0,False,False,False
+train,benign_note,0,meeting%2520notes%2520for%2520item%2520281746%253B%2520bring%2520a%2520pen,0.0,False,False,False
+train,benign_note,0,meeting notes for item 70403; bring a pen,0.0029433969694327316,False,False,False
+train,benign_note,0,meeting%20notes%20for%20item%20222231%3B%20bring%20a%20pen,0.0,False,False,False
+train,benign_note,0,meeting%2520notes%2520for%2520item%2520958492%253B%2520bring%2520a%2520pen,0.0,False,False,False
+train,benign_note,0,meeting notes for item 989712; bring a pen,0.0006097560975609756,False,False,False
+train,benign_note,0,meeting%20notes%20for%20item%20595731%3B%20bring%20a%20pen,0.0,False,False,False
+train,benign_note,0,meeting%2520notes%2520for%2520item%2520919938%253B%2520bring%2520a%2520pen,0.0,False,False,False
+train,benign_note,0,meeting notes for item 753787; bring a pen,0.0006097560975609756,False,False,False
+train,benign_note,0,meeting%20notes%20for%20item%20330963%3B%20bring%20a%20pen,0.0,False,False,False
+train,benign_note,0,meeting%2520notes%2520for%2520item%2520223955%253B%2520bring%2520a%2520pen,0.0,False,False,False
+train,benign_note,0,meeting notes for item 688277; bring a pen,0.0006097560975609756,False,False,False
+train,benign_note,0,meeting%20notes%20for%20item%20524481%3B%20bring%20a%20pen,0.0,False,False,False
+train,benign_note,0,meeting%2520notes%2520for%2520item%2520415850%253B%2520bring%2520a%2520pen,0.0,False,False,False
+train,benign_note,0,meeting notes for item 928657; bring a pen,0.0006097560975609756,False,False,False
+train,benign_note,0,meeting%20notes%20for%20item%20959972%3B%20bring%20a%20pen,0.0,False,False,False
+train,benign_note,0,meeting%2520notes%2520for%2520item%2520675079%253B%2520bring%2520a%2520pen,0.0,False,False,False
+train,sql_union,1,482141' UNION SELECT name FROM products --,0.9983727530747398,True,True,True
+train,sql_union,1,150811%27%20UNION%20SELECT%20name%20FROM%20products%20--,0.9991827678022804,True,True,True
+train,sql_union,1,278746%2527%2520UNION%2520SELECT%2520name%2520FROM%2520products%2520--,0.9991827678022804,True,True,True
+train,sql_union,1,147413' UNION SELECT name FROM products --,0.9983727530747398,True,True,True
+train,sql_union,1,259607%27%20UNION%20SELECT%20name%20FROM%20products%20--,0.9991827678022804,True,True,True
+train,sql_union,1,782177%2527%2520UNION%2520SELECT%2520name%2520FROM%2520products%2520--,0.9991827678022804,True,True,True
+train,sql_union,1,589637' UNION SELECT name FROM products --,0.9983727530747398,True,True,True
+train,sql_union,1,566158%27%20UNION%20SELECT%20name%20FROM%20products%20--,0.9991827678022804,True,True,True
+train,sql_union,1,276504%2527%2520UNION%2520SELECT%2520name%2520FROM%2520products%2520--,0.9991827678022804,True,True,True
+train,sql_union,1,784300' UNION SELECT name FROM products --,0.9983727530747398,True,True,True
+train,sql_union,1,613982%27%20UNION%20SELECT%20name%20FROM%20products%20--,0.9991827678022804,True,True,True
+train,sql_union,1,450245%2527%2520UNION%2520SELECT%2520name%2520FROM%2520products%2520--,0.9991827678022804,True,True,True
+train,sql_union,1,942435' UNION SELECT name FROM products --,0.9983727530747398,True,True,True
+train,sql_union,1,612878%27%20UNION%20SELECT%20name%20FROM%20products%20--,0.9991827678022804,True,True,True
+train,sql_union,1,419801%2527%2520UNION%2520SELECT%2520name%2520FROM%2520products%2520--,0.9991827678022804,True,True,True
+train,sql_union,1,380580' UNION SELECT name FROM products --,0.9983727530747398,True,True,True
+train,sql_union,1,230974%27%20UNION%20SELECT%20name%20FROM%20products%20--,0.9991827678022804,True,True,True
+train,sql_union,1,146051%2527%2520UNION%2520SELECT%2520name%2520FROM%2520products%2520--,0.9991827678022804,True,True,True
+train,sql_union,1,535277' UNION SELECT name FROM products --,0.9983727530747398,True,True,True
+train,sql_union,1,518488%27%20UNION%20SELECT%20name%20FROM%20products%20--,0.9991827678022804,True,True,True
+train,sql_union,1,96325%2527%2520UNION%2520SELECT%2520name%2520FROM%2520products%2520--,0.9754574012983181,True,True,True
+train,sql_union,1,793495' UNION SELECT name FROM products --,0.9983727530747398,True,True,True
+train,sql_union,1,50405%27%20UNION%20SELECT%20name%20FROM%20products%20--,0.9754574012983181,True,True,True
+train,sql_union,1,903931%2527%2520UNION%2520SELECT%2520name%2520FROM%2520products%2520--,0.9991827678022804,True,True,True
+train,sql_union,1,115975' UNION SELECT name FROM products --,0.9983727530747398,True,True,True
+train,sql_union,1,161265%27%20UNION%20SELECT%20name%20FROM%20products%20--,0.9991827678022804,True,True,True
+train,sql_union,1,658924%2527%2520UNION%2520SELECT%2520name%2520FROM%2520products%2520--,0.9991827678022804,True,True,True
+train,sql_union,1,168753' UNION SELECT name FROM products --,0.9983727530747398,True,True,True
+train,sql_union,1,831555%27%20UNION%20SELECT%20name%20FROM%20products%20--,0.9991827678022804,True,True,True
+train,sql_union,1,714536%2527%2520UNION%2520SELECT%2520name%2520FROM%2520products%2520--,0.9991827678022804,True,True,True
+train,sql_boolean,1,443666' OR 1=1 --,0.9996178343949045,True,True,True
+train,sql_boolean,1,626380%27%20OR%201%3D1%20--,0.9996178343949045,True,True,True
+train,sql_boolean,1,67613%2527%2520OR%25201%253D1%2520--,0.9996178343949045,True,True,True
+train,sql_boolean,1,404457' OR 1=1 --,0.9996178343949045,True,True,True
+train,sql_boolean,1,401156%27%20OR%201%3D1%20--,0.9996178343949045,True,True,True
+train,sql_boolean,1,625834%2527%2520OR%25201%253D1%2520--,0.9996178343949045,True,True,True
+train,sql_boolean,1,491785' OR 1=1 --,0.9996178343949045,True,True,True
+train,sql_boolean,1,555816%27%20OR%201%3D1%20--,0.9996178343949045,True,True,True
+train,sql_boolean,1,264626%2527%2520OR%25201%253D1%2520--,0.9996178343949045,True,True,True
+train,sql_boolean,1,581099' OR 1=1 --,0.9996178343949045,True,True,True
+train,sql_boolean,1,903592%27%20OR%201%3D1%20--,0.9996178343949045,True,True,True
+train,sql_boolean,1,989210%2527%2520OR%25201%253D1%2520--,0.9996178343949045,True,True,True
+train,sql_boolean,1,13038' OR 1=1 --,0.9996178343949045,True,True,True
+train,sql_boolean,1,714328%27%20OR%201%3D1%20--,0.9996178343949045,True,True,True
+train,sql_boolean,1,756731%2527%2520OR%25201%253D1%2520--,0.9996178343949045,True,True,True
+train,sql_boolean,1,121116' OR 1=1 --,0.9996178343949045,True,True,True
+train,sql_boolean,1,715825%27%20OR%201%3D1%20--,0.9996178343949045,True,True,True
+train,sql_boolean,1,928767%2527%2520OR%25201%253D1%2520--,0.9996178343949045,True,True,True
+train,sql_boolean,1,564054' OR 1=1 --,0.9996178343949045,True,True,True
+train,sql_boolean,1,788352%27%20OR%201%3D1%20--,0.9996178343949045,True,True,True
+train,sql_boolean,1,280786%2527%2520OR%25201%253D1%2520--,0.9996178343949045,True,True,True
+train,sql_boolean,1,806934' OR 1=1 --,0.9996178343949045,True,True,True
+train,sql_boolean,1,673097%27%20OR%201%3D1%20--,0.9996178343949045,True,True,True
+train,sql_boolean,1,357699%2527%2520OR%25201%253D1%2520--,0.9996178343949045,True,True,True
+train,sql_boolean,1,117970' OR 1=1 --,0.9996178343949045,True,True,True
+train,sql_boolean,1,308757%27%20OR%201%3D1%20--,0.9996178343949045,True,True,True
+train,sql_boolean,1,456884%2527%2520OR%25201%253D1%2520--,0.9996178343949045,True,True,True
+train,sql_boolean,1,166840' OR 1=1 --,0.9996178343949045,True,True,True
+train,sql_boolean,1,476763%27%20OR%201%3D1%20--,0.9996178343949045,True,True,True
+train,sql_boolean,1,4402%2527%2520OR%25201%253D1%2520--,0.9653846153846153,True,True,True
+train,sql_stacked,1,758168'; DROP TABLE imaginary_table; --,0.9936178925949213,True,True,True
+train,sql_stacked,1,919398%27%3B%20DROP%20TABLE%20imaginary_table%3B%20--,0.9964698519563145,True,True,True
+train,sql_stacked,1,755639%2527%253B%2520DROP%2520TABLE%2520imaginary_table%253B%2520--,0.9964698519563145,True,True,True
+train,sql_stacked,1,277183'; DROP TABLE imaginary_table; --,0.9936178925949213,True,True,True
+train,sql_stacked,1,525902%27%3B%20DROP%20TABLE%20imaginary_table%3B%20--,0.9964698519563145,True,True,True
+train,sql_stacked,1,799975%2527%253B%2520DROP%2520TABLE%2520imaginary_table%253B%2520--,0.9964698519563145,True,True,True
+train,sql_stacked,1,188330'; DROP TABLE imaginary_table; --,0.9936178925949213,True,True,True
+train,sql_stacked,1,533342%27%3B%20DROP%20TABLE%20imaginary_table%3B%20--,0.9964698519563145,True,True,True
+train,sql_stacked,1,957959%2527%253B%2520DROP%2520TABLE%2520imaginary_table%253B%2520--,0.9964698519563145,True,True,True
+train,sql_stacked,1,112579'; DROP TABLE imaginary_table; --,0.9936178925949213,True,True,True
+train,sql_stacked,1,913804%27%3B%20DROP%20TABLE%20imaginary_table%3B%20--,0.9964698519563145,True,True,True
+train,sql_stacked,1,656674%2527%253B%2520DROP%2520TABLE%2520imaginary_table%253B%2520--,0.9964698519563145,True,True,True
+train,sql_stacked,1,313942'; DROP TABLE imaginary_table; --,0.9936178925949213,True,True,True
+train,sql_stacked,1,883554%27%3B%20DROP%20TABLE%20imaginary_table%3B%20--,0.9964698519563145,True,True,True
+train,sql_stacked,1,670987%2527%253B%2520DROP%2520TABLE%2520imaginary_table%253B%2520--,0.9964698519563145,True,True,True
+train,sql_stacked,1,533323'; DROP TABLE imaginary_table; --,0.9936178925949213,True,True,True
+train,sql_stacked,1,639551%27%3B%20DROP%20TABLE%20imaginary_table%3B%20--,0.9964698519563145,True,True,True
+train,sql_stacked,1,209573%2527%253B%2520DROP%2520TABLE%2520imaginary_table%253B%2520--,0.9964698519563145,True,True,True
+train,sql_stacked,1,161263'; DROP TABLE imaginary_table; --,0.9936178925949213,True,True,True
+train,sql_stacked,1,393077%27%3B%20DROP%20TABLE%20imaginary_table%3B%20--,0.9964698519563145,True,True,True
+train,sql_stacked,1,800550%2527%253B%2520DROP%2520TABLE%2520imaginary_table%253B%2520--,0.9964698519563145,True,True,True
+train,sql_stacked,1,170396'; DROP TABLE imaginary_table; --,0.9936178925949213,True,True,True
+train,sql_stacked,1,566579%27%3B%20DROP%20TABLE%20imaginary_table%3B%20--,0.9964698519563145,True,True,True
+train,sql_stacked,1,817449%2527%253B%2520DROP%2520TABLE%2520imaginary_table%253B%2520--,0.9964698519563145,True,True,True
+train,sql_stacked,1,968242'; DROP TABLE imaginary_table; --,0.9936178925949213,True,True,True
+train,sql_stacked,1,557116%27%3B%20DROP%20TABLE%20imaginary_table%3B%20--,0.9964698519563145,True,True,True
+train,sql_stacked,1,964110%2527%253B%2520DROP%2520TABLE%2520imaginary_table%253B%2520--,0.9964698519563145,True,True,True
+train,sql_stacked,1,1599'; DROP TABLE imaginary_table; --,0.9436979571569686,True,True,True
+train,sql_stacked,1,629038%27%3B%20DROP%20TABLE%20imaginary_table%3B%20--,0.9964698519563145,True,True,True
+train,sql_stacked,1,340902%2527%253B%2520DROP%2520TABLE%2520imaginary_table%253B%2520--,0.9964698519563145,True,True,True
+train,xss_script,1,<script>alert(513340)</script>,0.9991690346177102,True,True,True
+train,xss_script,1,%3Cscript%3Ealert%2821422%29%3C%2Fscript%3E,0.9990380397847286,True,True,True
+train,xss_script,1,%253Cscript%253Ealert%2528118301%2529%253C%252Fscript%253E,0.9988393642880399,True,True,True
+train,xss_script,1,<script>alert(975230)</script>,0.9991690346177102,True,True,True
+train,xss_script,1,%3Cscript%3Ealert%28381612%29%3C%2Fscript%3E,0.9988393642880399,True,True,True
+train,xss_script,1,%253Cscript%253Ealert%2528922406%2529%253C%252Fscript%253E,0.9988393642880399,True,True,True
+train,xss_script,1,<script>alert(873064)</script>,0.9991690346177102,True,True,True
+train,xss_script,1,%3Cscript%3Ealert%28846964%29%3C%2Fscript%3E,0.9988393642880399,True,True,True
+train,xss_script,1,%253Cscript%253Ealert%2528323451%2529%253C%252Fscript%253E,0.9988393642880399,True,True,True
+train,xss_script,1,<script>alert(252083)</script>,0.9991690346177102,True,True,True
+train,xss_script,1,%3Cscript%3Ealert%2861738%29%3C%2Fscript%3E,0.9990380397847286,True,True,True
+train,xss_script,1,%253Cscript%253Ealert%2528253572%2529%253C%252Fscript%253E,0.9988393642880399,True,True,True
+train,xss_script,1,<script>alert(921659)</script>,0.9991690346177102,True,True,True
+train,xss_script,1,%3Cscript%3Ealert%28595916%29%3C%2Fscript%3E,0.9988393642880399,True,True,True
+train,xss_script,1,%253Cscript%253Ealert%2528993948%2529%253C%252Fscript%253E,0.9988393642880399,True,True,True
+train,xss_script,1,<script>alert(83582)</script>,0.9993677101143991,True,True,True
+train,xss_script,1,%3Cscript%3Ealert%2890814%29%3C%2Fscript%3E,0.9990380397847286,True,True,True
+train,xss_script,1,%253Cscript%253Ealert%2528768460%2529%253C%252Fscript%253E,0.9988393642880399,True,True,True
+train,xss_script,1,<script>alert(510597)</script>,0.9991690346177102,True,True,True
+train,xss_script,1,%3Cscript%3Ealert%28856662%29%3C%2Fscript%3E,0.9988393642880399,True,True,True
+train,xss_script,1,%253Cscript%253Ealert%252873574%2529%253C%252Fscript%253E,0.9990380397847286,True,True,True
+train,xss_script,1,<script>alert(798549)</script>,0.9991690346177102,True,True,True
+train,xss_script,1,%3Cscript%3Ealert%28559582%29%3C%2Fscript%3E,0.9988393642880399,True,True,True
+train,xss_script,1,%253Cscript%253Ealert%2528804035%2529%253C%252Fscript%253E,0.9988393642880399,True,True,True
+train,xss_script,1,<script>alert(132869)</script>,0.9991690346177102,True,True,True
+train,xss_script,1,%3Cscript%3Ealert%28135628%29%3C%2Fscript%3E,0.9988393642880399,True,True,True
+train,xss_script,1,%253Cscript%253Ealert%2528692798%2529%253C%252Fscript%253E,0.9988393642880399,True,True,True
+train,xss_script,1,<script>alert(499369)</script>,0.9991690346177102,True,True,True
+train,xss_script,1,%3Cscript%3Ealert%28993842%29%3C%2Fscript%3E,0.9988393642880399,True,True,True
+train,xss_script,1,%253Cscript%253Ealert%2528577510%2529%253C%252Fscript%253E,0.9988393642880399,True,True,True
+train,xss_event,1,<img src=x onerror=alert(174148)>,0.9997216924152839,True,True,True
+train,xss_event,1,%3Cimg%20src%3Dx%20onerror%3Dalert%28278932%29%3E,0.9995293847229761,True,True,True
+train,xss_event,1,%253Cimg%2520src%253Dx%2520onerror%253Dalert%2528554306%2529%253E,0.9995293847229761,True,True,True
+train,xss_event,1,<img src=x onerror=alert(915812)>,0.9997216924152839,True,True,True
+train,xss_event,1,%3Cimg%20src%3Dx%20onerror%3Dalert%28637059%29%3E,0.9995293847229761,True,True,True
+train,xss_event,1,%253Cimg%2520src%253Dx%2520onerror%253Dalert%2528444692%2529%253E,0.9995293847229761,True,True,True
+train,xss_event,1,<img src=x onerror=alert(223086)>,0.9997216924152839,True,True,True
+train,xss_event,1,%3Cimg%20src%3Dx%20onerror%3Dalert%28975036%29%3E,0.9995293847229761,True,True,True
+train,xss_event,1,%253Cimg%2520src%253Dx%2520onerror%253Dalert%2528566492%2529%253E,0.9995293847229761,True,True,True
+train,xss_event,1,<img src=x onerror=alert(792952)>,0.9997216924152839,True,True,True
+train,xss_event,1,%3Cimg%20src%3Dx%20onerror%3Dalert%28766388%29%3E,0.9995293847229761,True,True,True
+train,xss_event,1,%253Cimg%2520src%253Dx%2520onerror%253Dalert%2528724378%2529%253E,0.9995293847229761,True,True,True
+train,xss_event,1,<img src=x onerror=alert(211922)>,0.9997216924152839,True,True,True
+train,xss_event,1,%3Cimg%20src%3Dx%20onerror%3Dalert%28748581%29%3E,0.9995293847229761,True,True,True
+train,xss_event,1,%253Cimg%2520src%253Dx%2520onerror%253Dalert%2528327858%2529%253E,0.9995293847229761,True,True,True
+train,xss_event,1,<img src=x onerror=alert(419373)>,0.9997216924152839,True,True,True
+train,xss_event,1,%3Cimg%20src%3Dx%20onerror%3Dalert%28705314%29%3E,0.9995293847229761,True,True,True
+train,xss_event,1,%253Cimg%2520src%253Dx%2520onerror%253Dalert%2528682446%2529%253E,0.9995293847229761,True,True,True
+train,xss_event,1,<img src=x onerror=alert(392559)>,0.9997216924152839,True,True,True
+train,xss_event,1,%3Cimg%20src%3Dx%20onerror%3Dalert%28460381%29%3E,0.9995293847229761,True,True,True
+train,xss_event,1,%253Cimg%2520src%253Dx%2520onerror%253Dalert%2528944313%2529%253E,0.9995293847229761,True,True,True
+train,xss_event,1,<img src=x onerror=alert(543717)>,0.9997216924152839,True,True,True
+train,xss_event,1,%3Cimg%20src%3Dx%20onerror%3Dalert%28474417%29%3E,0.9995293847229761,True,True,True
+train,xss_event,1,%253Cimg%2520src%253Dx%2520onerror%253Dalert%2528127882%2529%253E,0.9995293847229761,True,True,True
+train,xss_event,1,<img src=x onerror=alert(260947)>,0.9997216924152839,True,True,True
+train,xss_event,1,%3Cimg%20src%3Dx%20onerror%3Dalert%28236612%29%3E,0.9995293847229761,True,True,True
+train,xss_event,1,%253Cimg%2520src%253Dx%2520onerror%253Dalert%252868136%2529%253E,0.9995293847229761,True,True,True
+train,xss_event,1,<img src=x onerror=alert(355508)>,0.9997216924152839,True,True,True
+train,xss_event,1,%3Cimg%20src%3Dx%20onerror%3Dalert%2823056%29%3E,0.9995293847229761,True,True,True
+train,xss_event,1,%253Cimg%2520src%253Dx%2520onerror%253Dalert%2528617886%2529%253E,0.9995293847229761,True,True,True
+train,xss_uri,1,javascript:alert(581828),0.9977769149620385,True,True,True
+train,xss_uri,1,javascript%3Aalert%28242292%29,0.9979422588773823,True,True,True
+train,xss_uri,1,javascript%253Aalert%2528618024%2529,0.9979422588773823,True,True,True
+train,xss_uri,1,javascript:alert(231914),0.9977769149620385,True,True,True
+train,xss_uri,1,javascript%3Aalert%288540%29,0.9642441984015576,True,True,True
+train,xss_uri,1,javascript%253Aalert%252875441%2529,0.9981464903342964,True,True,True
+train,xss_uri,1,javascript:alert(743225),0.9977769149620385,True,True,True
+train,xss_uri,1,javascript%3Aalert%28662759%29,0.9979422588773823,True,True,True
+train,xss_uri,1,javascript%253Aalert%252862733%2529,0.9981464903342964,True,True,True
+train,xss_uri,1,javascript:alert(241062),0.9977769149620385,True,True,True
+train,xss_uri,1,javascript%3Aalert%2871674%29,0.9981464903342964,True,True,True
+train,xss_uri,1,javascript%253Aalert%2528950401%2529,0.9979422588773823,True,True,True
+train,xss_uri,1,javascript:alert(33938),0.9985168607046667,True,True,True
+train,xss_uri,1,javascript%3Aalert%28902393%29,0.9979422588773823,True,True,True
+train,xss_uri,1,javascript%253Aalert%2528347479%2529,0.9979422588773823,True,True,True
+train,xss_uri,1,javascript:alert(75299),0.9985168607046667,True,True,True
+train,xss_uri,1,javascript%3Aalert%28540131%29,0.9979422588773823,True,True,True
+train,xss_uri,1,javascript%253Aalert%2528250565%2529,0.9979422588773823,True,True,True
+train,xss_uri,1,javascript:alert(293004),0.9977769149620385,True,True,True
+train,xss_uri,1,javascript%3Aalert%28702474%29,0.9979422588773823,True,True,True
+train,xss_uri,1,javascript%253Aalert%2528509993%2529,0.9979422588773823,True,True,True
+train,xss_uri,1,javascript:alert(225643),0.9977769149620385,True,True,True
+train,xss_uri,1,javascript%3Aalert%28566427%29,0.9979422588773823,True,True,True
+train,xss_uri,1,javascript%253Aalert%2528139739%2529,0.9979422588773823,True,True,True
+train,xss_uri,1,javascript:alert(759490),0.9977769149620385,True,True,True
+train,xss_uri,1,javascript%3Aalert%28981957%29,0.9979422588773823,True,True,True
+train,xss_uri,1,javascript%253Aalert%2528926245%2529,0.9979422588773823,True,True,True
+train,xss_uri,1,javascript:alert(599782),0.9977769149620385,True,True,True
+train,xss_uri,1,javascript%3Aalert%28605201%29,0.9979422588773823,True,True,True
+train,xss_uri,1,javascript%253Aalert%2528496631%2529,0.9979422588773823,True,True,True

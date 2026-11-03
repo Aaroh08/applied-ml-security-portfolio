@@ -1,0 +1,241 @@
+split,family,label,payload,model_score,rules_block,rf_block,combined_block
+validation,benign_stationery,0,paper pack 255801,0.0002606349893176838,False,False,False
+validation,benign_stationery,0,paper%20pack%20823733,0.0002606349893176838,False,False,False
+validation,benign_stationery,0,paper%2520pack%2520496948,0.0002606349893176838,False,False,False
+validation,benign_stationery,0,paper pack 847721,0.0002606349893176838,False,False,False
+validation,benign_stationery,0,paper%20pack%20427833,0.0002606349893176838,False,False,False
+validation,benign_stationery,0,paper%2520pack%2520200659,0.0002606349893176838,False,False,False
+validation,benign_stationery,0,paper pack 99907,0.0002606349893176838,False,False,False
+validation,benign_stationery,0,paper%20pack%20102639,0.0002606349893176838,False,False,False
+validation,benign_stationery,0,paper%2520pack%2520691993,0.0002606349893176838,False,False,False
+validation,benign_stationery,0,paper pack 452989,0.0002606349893176838,False,False,False
+validation,benign_stationery,0,paper%20pack%20372507,0.0002606349893176838,False,False,False
+validation,benign_stationery,0,paper%2520pack%2520445154,0.0002606349893176838,False,False,False
+validation,benign_stationery,0,paper pack 432071,0.0002606349893176838,False,False,False
+validation,benign_stationery,0,paper%20pack%20490710,0.0002606349893176838,False,False,False
+validation,benign_stationery,0,paper%2520pack%2520906798,0.0002606349893176838,False,False,False
+validation,benign_stationery,0,paper pack 765491,0.0002606349893176838,False,False,False
+validation,benign_stationery,0,paper%20pack%2057802,0.0002606349893176838,False,False,False
+validation,benign_stationery,0,paper%2520pack%2520707073,0.0002606349893176838,False,False,False
+validation,benign_stationery,0,paper pack 686197,0.0002606349893176838,False,False,False
+validation,benign_stationery,0,paper%20pack%20678568,0.0002606349893176838,False,False,False
+validation,benign_stationery,0,paper%2520pack%2520104198,0.0002606349893176838,False,False,False
+validation,benign_stationery,0,paper pack 64556,0.0002606349893176838,False,False,False
+validation,benign_stationery,0,paper%20pack%20423179,0.0002606349893176838,False,False,False
+validation,benign_stationery,0,paper%2520pack%2520764587,0.0002606349893176838,False,False,False
+validation,benign_stationery,0,paper pack 356784,0.0002606349893176838,False,False,False
+validation,benign_stationery,0,paper%20pack%20840482,0.0002606349893176838,False,False,False
+validation,benign_stationery,0,paper%2520pack%2520904529,0.0002606349893176838,False,False,False
+validation,benign_stationery,0,paper pack 115576,0.0002606349893176838,False,False,False
+validation,benign_stationery,0,paper%20pack%20261735,0.0002606349893176838,False,False,False
+validation,benign_stationery,0,paper%2520pack%2520201896,0.0002606349893176838,False,False,False
+validation,benign_punctuation,0,customer's order #200448: ready,0.18224663680911046,False,False,False
+validation,benign_punctuation,0,customer%27s%20order%20%23563336%3A%20ready,0.22600518957709717,False,False,False
+validation,benign_punctuation,0,customer%2527s%2520order%2520%2523471405%253A%2520ready,0.22600518957709717,False,False,False
+validation,benign_punctuation,0,customer's order #147991: ready,0.18224663680911046,False,False,False
+validation,benign_punctuation,0,customer%27s%20order%20%23443374%3A%20ready,0.22600518957709717,False,False,False
+validation,benign_punctuation,0,customer%2527s%2520order%2520%2523193401%253A%2520ready,0.22600518957709717,False,False,False
+validation,benign_punctuation,0,customer's order #293075: ready,0.18224663680911046,False,False,False
+validation,benign_punctuation,0,customer%27s%20order%20%23486100%3A%20ready,0.22600518957709717,False,False,False
+validation,benign_punctuation,0,customer%2527s%2520order%2520%2523262941%253A%2520ready,0.22600518957709717,False,False,False
+validation,benign_punctuation,0,customer's order #917964: ready,0.18224663680911046,False,False,False
+validation,benign_punctuation,0,customer%27s%20order%20%23969114%3A%20ready,0.22600518957709717,False,False,False
+validation,benign_punctuation,0,customer%2527s%2520order%2520%252380046%253A%2520ready,0.2562038650737859,False,False,False
+validation,benign_punctuation,0,customer's order #465656: ready,0.18224663680911046,False,False,False
+validation,benign_punctuation,0,customer%27s%20order%20%23848272%3A%20ready,0.22600518957709717,False,False,False
+validation,benign_punctuation,0,customer%2527s%2520order%2520%2523904189%253A%2520ready,0.22600518957709717,False,False,False
+validation,benign_punctuation,0,customer's order #898546: ready,0.18224663680911046,False,False,False
+validation,benign_punctuation,0,customer%27s%20order%20%23578057%3A%20ready,0.22600518957709717,False,False,False
+validation,benign_punctuation,0,customer%2527s%2520order%2520%2523103664%253A%2520ready,0.22600518957709717,False,False,False
+validation,benign_punctuation,0,customer's order #54045: ready,0.21744531230579917,False,False,False
+validation,benign_punctuation,0,customer%27s%20order%20%23684823%3A%20ready,0.22600518957709717,False,False,False
+validation,benign_punctuation,0,customer%2527s%2520order%2520%2523567847%253A%2520ready,0.22600518957709717,False,False,False
+validation,benign_punctuation,0,customer's order #877638: ready,0.18224663680911046,False,False,False
+validation,benign_punctuation,0,customer%27s%20order%20%2316474%3A%20ready,0.2562038650737859,False,False,False
+validation,benign_punctuation,0,customer%2527s%2520order%2520%252398793%253A%2520ready,0.2562038650737859,False,False,False
+validation,benign_punctuation,0,customer's order #972366: ready,0.18224663680911046,False,False,False
+validation,benign_punctuation,0,customer%27s%20order%20%23791170%3A%20ready,0.22600518957709717,False,False,False
+validation,benign_punctuation,0,customer%2527s%2520order%2520%2523890921%253A%2520ready,0.22600518957709717,False,False,False
+validation,benign_punctuation,0,customer's order #248861: ready,0.18224663680911046,False,False,False
+validation,benign_punctuation,0,customer%27s%20order%20%23175389%3A%20ready,0.22600518957709717,False,False,False
+validation,benign_punctuation,0,customer%2527s%2520order%2520%2523427156%253A%2520ready,0.22600518957709717,False,False,False
+validation,benign_sql_book,0,SQL SELECT examples chapter 510231,0.14227091435899727,False,False,False
+validation,benign_sql_book,0,SQL%20SELECT%20examples%20chapter%20505740,0.14227091435899727,False,False,False
+validation,benign_sql_book,0,SQL%2520SELECT%2520examples%2520chapter%2520225130,0.14227091435899727,False,False,False
+validation,benign_sql_book,0,SQL SELECT examples chapter 907651,0.14227091435899727,False,False,False
+validation,benign_sql_book,0,SQL%20SELECT%20examples%20chapter%20421521,0.14227091435899727,False,False,False
+validation,benign_sql_book,0,SQL%2520SELECT%2520examples%2520chapter%2520947279,0.14227091435899727,False,False,False
+validation,benign_sql_book,0,SQL SELECT examples chapter 62483,0.16182072154301738,False,False,False
+validation,benign_sql_book,0,SQL%20SELECT%20examples%20chapter%20173634,0.14227091435899727,False,False,False
+validation,benign_sql_book,0,SQL%2520SELECT%2520examples%2520chapter%2520398382,0.14227091435899727,False,False,False
+validation,benign_sql_book,0,SQL SELECT examples chapter 3260,0.08805261684122627,False,False,False
+validation,benign_sql_book,0,SQL%20SELECT%20examples%20chapter%20410386,0.14227091435899727,False,False,False
+validation,benign_sql_book,0,SQL%2520SELECT%2520examples%2520chapter%2520279085,0.14227091435899727,False,False,False
+validation,benign_sql_book,0,SQL SELECT examples chapter 972524,0.14227091435899727,False,False,False
+validation,benign_sql_book,0,SQL%20SELECT%20examples%20chapter%20823157,0.14227091435899727,False,False,False
+validation,benign_sql_book,0,SQL%2520SELECT%2520examples%2520chapter%2520824267,0.14227091435899727,False,False,False
+validation,benign_sql_book,0,SQL SELECT examples chapter 478110,0.14227091435899727,False,False,False
+validation,benign_sql_book,0,SQL%20SELECT%20examples%20chapter%20300105,0.14227091435899727,False,False,False
+validation,benign_sql_book,0,SQL%2520SELECT%2520examples%2520chapter%2520444555,0.14227091435899727,False,False,False
+validation,benign_sql_book,0,SQL SELECT examples chapter 731429,0.14227091435899727,False,False,False
+validation,benign_sql_book,0,SQL%20SELECT%20examples%20chapter%20766990,0.14227091435899727,False,False,False
+validation,benign_sql_book,0,SQL%2520SELECT%2520examples%2520chapter%2520822414,0.14227091435899727,False,False,False
+validation,benign_sql_book,0,SQL SELECT examples chapter 583765,0.14227091435899727,False,False,False
+validation,benign_sql_book,0,SQL%20SELECT%20examples%20chapter%20695022,0.14227091435899727,False,False,False
+validation,benign_sql_book,0,SQL%2520SELECT%2520examples%2520chapter%2520754305,0.14227091435899727,False,False,False
+validation,benign_sql_book,0,SQL SELECT examples chapter 511311,0.14227091435899727,False,False,False
+validation,benign_sql_book,0,SQL%20SELECT%20examples%20chapter%20163316,0.14227091435899727,False,False,False
+validation,benign_sql_book,0,SQL%2520SELECT%2520examples%2520chapter%2520200122,0.14227091435899727,False,False,False
+validation,benign_sql_book,0,SQL SELECT examples chapter 312120,0.14227091435899727,False,False,False
+validation,benign_sql_book,0,SQL%20SELECT%20examples%20chapter%20229275,0.14227091435899727,False,False,False
+validation,benign_sql_book,0,SQL%2520SELECT%2520examples%2520chapter%252062324,0.16182072154301738,False,False,False
+validation,benign_code_words,0,document and cookie reference page 608314,0.43,False,False,False
+validation,benign_code_words,0,document%20and%20cookie%20reference%20page%20772476,0.4293814432989691,False,False,False
+validation,benign_code_words,0,document%2520and%2520cookie%2520reference%2520page%2520569532,0.4293814432989691,False,False,False
+validation,benign_code_words,0,document and cookie reference page 64918,0.4491658451023398,False,False,False
+validation,benign_code_words,0,document%20and%20cookie%20reference%20page%20785309,0.4293814432989691,False,False,False
+validation,benign_code_words,0,document%2520and%2520cookie%2520reference%2520page%2520329838,0.4293814432989691,False,False,False
+validation,benign_code_words,0,document and cookie reference page 60942,0.4491658451023398,False,False,False
+validation,benign_code_words,0,document%20and%20cookie%20reference%20page%2053578,0.45354728840130887,False,False,False
+validation,benign_code_words,0,document%2520and%2520cookie%2520reference%2520page%2520613554,0.4293814432989691,False,False,False
+validation,benign_code_words,0,document and cookie reference page 500948,0.43,False,False,False
+validation,benign_code_words,0,document%20and%20cookie%20reference%20page%20528276,0.4293814432989691,False,False,False
+validation,benign_code_words,0,document%2520and%2520cookie%2520reference%2520page%2520965047,0.4293814432989691,False,False,False
+validation,benign_code_words,0,document and cookie reference page 895141,0.43,False,False,False
+validation,benign_code_words,0,document%20and%20cookie%20reference%20page%20557926,0.4293814432989691,False,False,False
+validation,benign_code_words,0,document%2520and%2520cookie%2520reference%2520page%2520166080,0.4293814432989691,False,False,False
+validation,benign_code_words,0,document and cookie reference page 60642,0.4491658451023398,False,False,False
+validation,benign_code_words,0,document%20and%20cookie%20reference%20page%20533496,0.4293814432989691,False,False,False
+validation,benign_code_words,0,document%2520and%2520cookie%2520reference%2520page%252085002,0.45354728840130887,False,False,False
+validation,benign_code_words,0,document and cookie reference page 893697,0.43,False,False,False
+validation,benign_code_words,0,document%20and%20cookie%20reference%20page%20195851,0.4293814432989691,False,False,False
+validation,benign_code_words,0,document%2520and%2520cookie%2520reference%2520page%252072849,0.45354728840130887,False,False,False
+validation,benign_code_words,0,document and cookie reference page 624939,0.43,False,False,False
+validation,benign_code_words,0,document%20and%20cookie%20reference%20page%2072262,0.45354728840130887,False,False,False
+validation,benign_code_words,0,document%2520and%2520cookie%2520reference%2520page%2520709011,0.4293814432989691,False,False,False
+validation,benign_code_words,0,document and cookie reference page 904682,0.43,False,False,False
+validation,benign_code_words,0,document%20and%20cookie%20reference%20page%20247629,0.4293814432989691,False,False,False
+validation,benign_code_words,0,document%2520and%2520cookie%2520reference%2520page%2520424389,0.4293814432989691,False,False,False
+validation,benign_code_words,0,document and cookie reference page 126710,0.43,False,False,False
+validation,benign_code_words,0,document%20and%20cookie%20reference%20page%20988335,0.4293814432989691,False,False,False
+validation,benign_code_words,0,document%2520and%2520cookie%2520reference%2520page%2520934533,0.4293814432989691,False,False,False
+validation,sql_union_all,1,598347 UNION ALL SELECT price FROM products,0.14114963349603774,True,False,True
+validation,sql_union_all,1,259175%20UNION%20ALL%20SELECT%20price%20FROM%20products,0.14114963349603774,True,False,True
+validation,sql_union_all,1,608040%2520UNION%2520ALL%2520SELECT%2520price%2520FROM%2520products,0.14114963349603774,True,False,True
+validation,sql_union_all,1,624398 UNION ALL SELECT price FROM products,0.14114963349603774,True,False,True
+validation,sql_union_all,1,42672%20UNION%20ALL%20SELECT%20price%20FROM%20products,0.15565607679500681,True,False,True
+validation,sql_union_all,1,650468%2520UNION%2520ALL%2520SELECT%2520price%2520FROM%2520products,0.14114963349603774,True,False,True
+validation,sql_union_all,1,86965 UNION ALL SELECT price FROM products,0.15127463349603773,True,False,True
+validation,sql_union_all,1,440589%20UNION%20ALL%20SELECT%20price%20FROM%20products,0.14114963349603774,True,False,True
+validation,sql_union_all,1,690305%2520UNION%2520ALL%2520SELECT%2520price%2520FROM%2520products,0.14114963349603774,True,False,True
+validation,sql_union_all,1,613024 UNION ALL SELECT price FROM products,0.14114963349603774,True,False,True
+validation,sql_union_all,1,593683%20UNION%20ALL%20SELECT%20price%20FROM%20products,0.14114963349603774,True,False,True
+validation,sql_union_all,1,549177%2520UNION%2520ALL%2520SELECT%2520price%2520FROM%2520products,0.14114963349603774,True,False,True
+validation,sql_union_all,1,332737 UNION ALL SELECT price FROM products,0.14114963349603774,True,False,True
+validation,sql_union_all,1,981110%20UNION%20ALL%20SELECT%20price%20FROM%20products,0.14114963349603774,True,False,True
+validation,sql_union_all,1,274432%2520UNION%2520ALL%2520SELECT%2520price%2520FROM%2520products,0.14114963349603774,True,False,True
+validation,sql_union_all,1,215181 UNION ALL SELECT price FROM products,0.14114963349603774,True,False,True
+validation,sql_union_all,1,703258%20UNION%20ALL%20SELECT%20price%20FROM%20products,0.14114963349603774,True,False,True
+validation,sql_union_all,1,751981%2520UNION%2520ALL%2520SELECT%2520price%2520FROM%2520products,0.14114963349603774,True,False,True
+validation,sql_union_all,1,330445 UNION ALL SELECT price FROM products,0.14114963349603774,True,False,True
+validation,sql_union_all,1,251280%20UNION%20ALL%20SELECT%20price%20FROM%20products,0.14114963349603774,True,False,True
+validation,sql_union_all,1,279517%2520UNION%2520ALL%2520SELECT%2520price%2520FROM%2520products,0.14114963349603774,True,False,True
+validation,sql_union_all,1,416011 UNION ALL SELECT price FROM products,0.14114963349603774,True,False,True
+validation,sql_union_all,1,138235%20UNION%20ALL%20SELECT%20price%20FROM%20products,0.14114963349603774,True,False,True
+validation,sql_union_all,1,705318%2520UNION%2520ALL%2520SELECT%2520price%2520FROM%2520products,0.14114963349603774,True,False,True
+validation,sql_union_all,1,677856 UNION ALL SELECT price FROM products,0.14114963349603774,True,False,True
+validation,sql_union_all,1,315569%20UNION%20ALL%20SELECT%20price%20FROM%20products,0.14114963349603774,True,False,True
+validation,sql_union_all,1,480434%2520UNION%2520ALL%2520SELECT%2520price%2520FROM%2520products,0.14114963349603774,True,False,True
+validation,sql_union_all,1,332535 UNION ALL SELECT price FROM products,0.14114963349603774,True,False,True
+validation,sql_union_all,1,975146%20UNION%20ALL%20SELECT%20price%20FROM%20products,0.14114963349603774,True,False,True
+validation,sql_union_all,1,789387%2520UNION%2520ALL%2520SELECT%2520price%2520FROM%2520products,0.14114963349603774,True,False,True
+validation,sql_quoted_boolean,1,982188' OR 'x'='x' --,0.9296178343949044,True,True,True
+validation,sql_quoted_boolean,1,77066%27%20OR%20%27x%27%3D%27x%27%20--,0.9109314845208571,True,True,True
+validation,sql_quoted_boolean,1,10767%2527%2520OR%2520%2527x%2527%253D%2527x%2527%2520--,0.9109314845208571,True,True,True
+validation,sql_quoted_boolean,1,481547' OR 'x'='x' --,0.9296178343949044,True,True,True
+validation,sql_quoted_boolean,1,652332%27%20OR%20%27x%27%3D%27x%27%20--,0.8946178343949045,True,True,True
+validation,sql_quoted_boolean,1,591341%2527%2520OR%2520%2527x%2527%253D%2527x%2527%2520--,0.8946178343949045,True,True,True
+validation,sql_quoted_boolean,1,105837' OR 'x'='x' --,0.9296178343949044,True,True,True
+validation,sql_quoted_boolean,1,77819%27%20OR%20%27x%27%3D%27x%27%20--,0.9109314845208571,True,True,True
+validation,sql_quoted_boolean,1,564750%2527%2520OR%2520%2527x%2527%253D%2527x%2527%2520--,0.8946178343949045,True,True,True
+validation,sql_quoted_boolean,1,224508' OR 'x'='x' --,0.9296178343949044,True,True,True
+validation,sql_quoted_boolean,1,531458%27%20OR%20%27x%27%3D%27x%27%20--,0.8946178343949045,True,True,True
+validation,sql_quoted_boolean,1,279082%2527%2520OR%2520%2527x%2527%253D%2527x%2527%2520--,0.8946178343949045,True,True,True
+validation,sql_quoted_boolean,1,139890' OR 'x'='x' --,0.9296178343949044,True,True,True
+validation,sql_quoted_boolean,1,979593%27%20OR%20%27x%27%3D%27x%27%20--,0.8946178343949045,True,True,True
+validation,sql_quoted_boolean,1,366962%2527%2520OR%2520%2527x%2527%253D%2527x%2527%2520--,0.8946178343949045,True,True,True
+validation,sql_quoted_boolean,1,924653' OR 'x'='x' --,0.9296178343949044,True,True,True
+validation,sql_quoted_boolean,1,73132%27%20OR%20%27x%27%3D%27x%27%20--,0.9109314845208571,True,True,True
+validation,sql_quoted_boolean,1,922981%2527%2520OR%2520%2527x%2527%253D%2527x%2527%2520--,0.8946178343949045,True,True,True
+validation,sql_quoted_boolean,1,257150' OR 'x'='x' --,0.9296178343949044,True,True,True
+validation,sql_quoted_boolean,1,388477%27%20OR%20%27x%27%3D%27x%27%20--,0.8946178343949045,True,True,True
+validation,sql_quoted_boolean,1,299830%2527%2520OR%2520%2527x%2527%253D%2527x%2527%2520--,0.8946178343949045,True,True,True
+validation,sql_quoted_boolean,1,166409' OR 'x'='x' --,0.9296178343949044,True,True,True
+validation,sql_quoted_boolean,1,460469%27%20OR%20%27x%27%3D%27x%27%20--,0.8946178343949045,True,True,True
+validation,sql_quoted_boolean,1,875244%2527%2520OR%2520%2527x%2527%253D%2527x%2527%2520--,0.8946178343949045,True,True,True
+validation,sql_quoted_boolean,1,570605' OR 'x'='x' --,0.9296178343949044,True,True,True
+validation,sql_quoted_boolean,1,738715%27%20OR%20%27x%27%3D%27x%27%20--,0.8946178343949045,True,True,True
+validation,sql_quoted_boolean,1,318212%2527%2520OR%2520%2527x%2527%253D%2527x%2527%2520--,0.8946178343949045,True,True,True
+validation,sql_quoted_boolean,1,642390' OR 'x'='x' --,0.9296178343949044,True,True,True
+validation,sql_quoted_boolean,1,847305%27%20OR%20%27x%27%3D%27x%27%20--,0.8946178343949045,True,True,True
+validation,sql_quoted_boolean,1,686743%2527%2520OR%2520%2527x%2527%253D%2527x%2527%2520--,0.8946178343949045,True,True,True
+validation,xss_body,1,<body onload=alert(555634)>,0.9995230169185951,True,True,True
+validation,xss_body,1,%3Cbody%20onload%3Dalert%289203%29%3E,0.9941997143933058,True,True,True
+validation,xss_body,1,%253Cbody%2520onload%253Dalert%2528701305%2529%253E,0.9936306685262467,True,True,True
+validation,xss_body,1,<body onload=alert(857795)>,0.9995230169185951,True,True,True
+validation,xss_body,1,%3Cbody%20onload%3Dalert%28582542%29%3E,0.9936306685262467,True,True,True
+validation,xss_body,1,%253Cbody%2520onload%253Dalert%2528314921%2529%253E,0.9936306685262467,True,True,True
+validation,xss_body,1,<body onload=alert(978017)>,0.9995230169185951,True,True,True
+validation,xss_body,1,%3Cbody%20onload%3Dalert%28696613%29%3E,0.9936306685262467,True,True,True
+validation,xss_body,1,%253Cbody%2520onload%253Dalert%2528109618%2529%253E,0.9936306685262467,True,True,True
+validation,xss_body,1,<body onload=alert(985539)>,0.9995230169185951,True,True,True
+validation,xss_body,1,%3Cbody%20onload%3Dalert%28921782%29%3E,0.9936306685262467,True,True,True
+validation,xss_body,1,%253Cbody%2520onload%253Dalert%2528141814%2529%253E,0.9936306685262467,True,True,True
+validation,xss_body,1,<body onload=alert(278312)>,0.9995230169185951,True,True,True
+validation,xss_body,1,%3Cbody%20onload%3Dalert%28122035%29%3E,0.9936306685262467,True,True,True
+validation,xss_body,1,%253Cbody%2520onload%253Dalert%2528933931%2529%253E,0.9936306685262467,True,True,True
+validation,xss_body,1,<body onload=alert(113235)>,0.9995230169185951,True,True,True
+validation,xss_body,1,%3Cbody%20onload%3Dalert%28779480%29%3E,0.9936306685262467,True,True,True
+validation,xss_body,1,%253Cbody%2520onload%253Dalert%2528581097%2529%253E,0.9936306685262467,True,True,True
+validation,xss_body,1,<body onload=alert(163998)>,0.9995230169185951,True,True,True
+validation,xss_body,1,%3Cbody%20onload%3Dalert%28286577%29%3E,0.9936306685262467,True,True,True
+validation,xss_body,1,%253Cbody%2520onload%253Dalert%2528296442%2529%253E,0.9936306685262467,True,True,True
+validation,xss_body,1,<body onload=alert(635210)>,0.9995230169185951,True,True,True
+validation,xss_body,1,%3Cbody%20onload%3Dalert%28221861%29%3E,0.9936306685262467,True,True,True
+validation,xss_body,1,%253Cbody%2520onload%253Dalert%2528753470%2529%253E,0.9936306685262467,True,True,True
+validation,xss_body,1,<body onload=alert(360536)>,0.9995230169185951,True,True,True
+validation,xss_body,1,%3Cbody%20onload%3Dalert%28214487%29%3E,0.9936306685262467,True,True,True
+validation,xss_body,1,%253Cbody%2520onload%253Dalert%2528721892%2529%253E,0.9936306685262467,True,True,True
+validation,xss_body,1,<body onload=alert(666046)>,0.9995230169185951,True,True,True
+validation,xss_body,1,%3Cbody%20onload%3Dalert%28895343%29%3E,0.9936306685262467,True,True,True
+validation,xss_body,1,%253Cbody%2520onload%253Dalert%2528277807%2529%253E,0.9936306685262467,True,True,True
+validation,xss_capital_script,1,<SCRIPT >alert(530959)</SCRIPT>,0.9991690346177102,True,True,True
+validation,xss_capital_script,1,%3CSCRIPT%20%3Ealert%28513262%29%3C%2FSCRIPT%3E,0.9988393642880399,True,True,True
+validation,xss_capital_script,1,%253CSCRIPT%2520%253Ealert%2528264319%2529%253C%252FSCRIPT%253E,0.9988393642880399,True,True,True
+validation,xss_capital_script,1,<SCRIPT >alert(950314)</SCRIPT>,0.9991690346177102,True,True,True
+validation,xss_capital_script,1,%3CSCRIPT%20%3Ealert%28953273%29%3C%2FSCRIPT%3E,0.9988393642880399,True,True,True
+validation,xss_capital_script,1,%253CSCRIPT%2520%253Ealert%2528888204%2529%253C%252FSCRIPT%253E,0.9988393642880399,True,True,True
+validation,xss_capital_script,1,<SCRIPT >alert(54266)</SCRIPT>,0.9993677101143991,True,True,True
+validation,xss_capital_script,1,%3CSCRIPT%20%3Ealert%2897781%29%3C%2FSCRIPT%3E,0.9990380397847286,True,True,True
+validation,xss_capital_script,1,%253CSCRIPT%2520%253Ealert%2528666095%2529%253C%252FSCRIPT%253E,0.9988393642880399,True,True,True
+validation,xss_capital_script,1,<SCRIPT >alert(445151)</SCRIPT>,0.9991690346177102,True,True,True
+validation,xss_capital_script,1,%3CSCRIPT%20%3Ealert%28870634%29%3C%2FSCRIPT%3E,0.9988393642880399,True,True,True
+validation,xss_capital_script,1,%253CSCRIPT%2520%253Ealert%2528291120%2529%253C%252FSCRIPT%253E,0.9988393642880399,True,True,True
+validation,xss_capital_script,1,<SCRIPT >alert(47228)</SCRIPT>,0.9993677101143991,True,True,True
+validation,xss_capital_script,1,%3CSCRIPT%20%3Ealert%284717%29%3C%2FSCRIPT%3E,0.9346581562241341,True,True,True
+validation,xss_capital_script,1,%253CSCRIPT%2520%253Ealert%2528350759%2529%253C%252FSCRIPT%253E,0.9988393642880399,True,True,True
+validation,xss_capital_script,1,<SCRIPT >alert(809577)</SCRIPT>,0.9991690346177102,True,True,True
+validation,xss_capital_script,1,%3CSCRIPT%20%3Ealert%28138174%29%3C%2FSCRIPT%3E,0.9988393642880399,True,True,True
+validation,xss_capital_script,1,%253CSCRIPT%2520%253Ealert%2528669061%2529%253C%252FSCRIPT%253E,0.9988393642880399,True,True,True
+validation,xss_capital_script,1,<SCRIPT >alert(275680)</SCRIPT>,0.9991690346177102,True,True,True
+validation,xss_capital_script,1,%3CSCRIPT%20%3Ealert%28170430%29%3C%2FSCRIPT%3E,0.9988393642880399,True,True,True
+validation,xss_capital_script,1,%253CSCRIPT%2520%253Ealert%2528778236%2529%253C%252FSCRIPT%253E,0.9988393642880399,True,True,True
+validation,xss_capital_script,1,<SCRIPT >alert(464298)</SCRIPT>,0.9991690346177102,True,True,True
+validation,xss_capital_script,1,%3CSCRIPT%20%3Ealert%28579478%29%3C%2FSCRIPT%3E,0.9988393642880399,True,True,True
+validation,xss_capital_script,1,%253CSCRIPT%2520%253Ealert%2528740945%2529%253C%252FSCRIPT%253E,0.9988393642880399,True,True,True
+validation,xss_capital_script,1,<SCRIPT >alert(449462)</SCRIPT>,0.9991690346177102,True,True,True
+validation,xss_capital_script,1,%3CSCRIPT%20%3Ealert%28589153%29%3C%2FSCRIPT%3E,0.9988393642880399,True,True,True
+validation,xss_capital_script,1,%253CSCRIPT%2520%253Ealert%252811139%2529%253C%252FSCRIPT%253E,0.9990380397847286,True,True,True
+validation,xss_capital_script,1,<SCRIPT >alert(118308)</SCRIPT>,0.9991690346177102,True,True,True
+validation,xss_capital_script,1,%3CSCRIPT%20%3Ealert%2879898%29%3C%2FSCRIPT%3E,0.9990380397847286,True,True,True
+validation,xss_capital_script,1,%253CSCRIPT%2520%253Ealert%2528991957%2529%253C%252FSCRIPT%253E,0.9988393642880399,True,True,True
