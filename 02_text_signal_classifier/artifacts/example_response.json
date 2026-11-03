@@ -1,0 +1,37 @@
+{
+  "selected_model": "tfidf",
+  "disclaimer": "Research classification of dataset tags, not a diagnosis or assessment of a person. All scores are uncertain and uncalibrated.",
+  "text_only": true,
+  "truncated_at_128_tokens": false,
+  "models": {
+    "tfidf": {
+      "dataset_tag": "postpartum",
+      "max_score": 0.9758476441261557,
+      "class_scores": {
+        "atypical": 0.004749424965823266,
+        "bipolar": 0.0035212368733150614,
+        "major depressive": 0.0032188359970556093,
+        "no": 0.007962549851642449,
+        "postpartum": 0.9758476441261557,
+        "psychotic": 0.004700308186008025
+      },
+      "calibrated": false
+    },
+    "distilbert": {
+      "dataset_tag": "postpartum",
+      "max_score": 0.9318032514298952,
+      "class_scores": {
+        "atypical": 0.036753470314194674,
+        "bipolar": 6.869181745444788e-05,
+        "major depressive": 9.219200074597646e-05,
+        "no": 0.0020449648499949813,
+        "postpartum": 0.9318032514298952,
+        "psychotic": 0.02923742958771479
+      },
+      "calibrated": false
+    }
+  },
+  "warning": "Dataset tags are lexicon-derived topics, not confirmed conditions. The no tag does not rule out distress.",
+  "models_disagree": false,
+  "tfidf_known_feature_count": 11
+}

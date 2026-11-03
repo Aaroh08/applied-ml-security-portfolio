@@ -1,0 +1,601 @@
+source_row,label,prediction,score_atypical,score_bipolar,score_major depressive,score_no,score_postpartum,score_psychotic
+13341,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+11759,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+650,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+12357,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+3203,psychotic,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+13282,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+12822,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+6193,atypical,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+8154,no,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+1912,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+3186,psychotic,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+3548,psychotic,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+128,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+10762,psychotic,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+13447,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+149,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+7642,no,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+5054,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+1415,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+11680,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+11441,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+6697,atypical,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+1144,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+11482,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+2737,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+14825,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+1419,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+5779,atypical,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+2402,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+9944,psychotic,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+7446,atypical,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+7540,atypical,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+335,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+6624,atypical,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+11132,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+13709,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+9747,psychotic,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+14871,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+3920,psychotic,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+5531,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+14597,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+5013,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+6827,atypical,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+10584,psychotic,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+4447,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+667,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+625,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+1978,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+11959,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+4195,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+6338,atypical,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+7277,atypical,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+3624,psychotic,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+506,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+8352,no,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+1854,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+4280,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+12199,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+3928,psychotic,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+10166,psychotic,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+2273,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+11969,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+3211,psychotic,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+6478,atypical,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+6135,atypical,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+4198,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+10385,psychotic,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+12705,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+10470,psychotic,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+2215,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+10052,psychotic,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+2678,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+5328,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+6634,atypical,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+12801,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+1887,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+13652,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+13161,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+4962,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+14220,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+5895,atypical,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+1253,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+14233,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+11139,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+9175,no,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+12741,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+12745,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+2169,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+7207,atypical,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+5753,atypical,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+12711,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+11617,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+6137,atypical,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+9050,no,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+11692,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+1284,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+4685,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+11347,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+14706,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+4242,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+5384,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+2048,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+306,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+10120,psychotic,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+6269,atypical,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+2175,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+3528,psychotic,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+3490,psychotic,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+2650,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+14248,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+12845,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+2639,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+11546,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+8296,no,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+658,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+14078,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+5310,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+14043,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+6694,atypical,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+12812,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+9025,no,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+2328,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+13214,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+5334,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+1904,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+14501,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+4441,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+4607,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+3480,psychotic,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+3969,psychotic,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+5688,atypical,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+102,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+2389,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+6740,atypical,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+13830,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+810,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+14731,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+3228,psychotic,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+12501,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+11083,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+6954,atypical,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+5970,atypical,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+451,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+4059,psychotic,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+10273,psychotic,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+4955,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+12474,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+1878,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+7714,no,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+12085,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+2239,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+14290,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+4144,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+5260,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+7282,atypical,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+11740,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+3130,psychotic,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+13425,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+1871,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+14612,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+2533,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+305,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+7971,no,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+678,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+13790,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+7814,no,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+10479,psychotic,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+12174,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+5829,atypical,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+1258,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+6467,atypical,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+7947,no,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+397,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+2497,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+2340,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+11849,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+14346,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+7229,atypical,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+10608,psychotic,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+13456,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+2171,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+2481,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+1775,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+13184,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+27,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+13070,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+7737,no,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+7262,atypical,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+10640,psychotic,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+11481,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+11989,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+2579,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+12701,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+1991,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+4021,psychotic,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+8224,no,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+3839,psychotic,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+10875,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+4099,psychotic,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+64,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+3479,psychotic,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+13195,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+6415,atypical,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+13739,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+2472,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+5905,atypical,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+4878,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+725,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+12591,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+135,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+14419,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+366,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+14067,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+8106,no,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+5365,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+9315,no,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+7493,atypical,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+9997,psychotic,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+10009,psychotic,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+12364,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+13656,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+4028,psychotic,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+6362,atypical,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+2335,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+10033,psychotic,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+11320,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+12488,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+7719,no,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+8744,no,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+11669,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+5977,atypical,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+6649,atypical,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+11406,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+9552,no,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+7461,atypical,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+12008,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+12780,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+9754,psychotic,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+8027,no,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+182,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+808,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+5903,atypical,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+2861,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+14533,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+6623,atypical,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+4752,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+11144,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+9059,no,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+3118,psychotic,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+11178,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+7140,atypical,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+12298,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+4237,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+13448,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+14925,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+3848,psychotic,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+1397,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+2122,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+9058,no,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+7804,no,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+10543,psychotic,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+12768,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+11687,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+4968,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+1333,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+1607,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+4326,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+6936,atypical,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+10591,psychotic,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+62,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+10091,psychotic,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+6260,atypical,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+7286,atypical,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+12659,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+6626,atypical,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+3324,psychotic,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+9767,psychotic,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+6233,atypical,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+14470,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+4763,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+358,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+10609,psychotic,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+7662,no,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+6662,atypical,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+12570,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+12973,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+13406,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+3799,no,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+14921,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+9137,no,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+7538,atypical,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+5119,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+14168,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+3789,psychotic,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+3916,psychotic,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+6308,atypical,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+2117,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+7113,atypical,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+13028,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+11676,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+6213,atypical,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+12665,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+2141,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+11423,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+1168,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+11101,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+3780,psychotic,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+14155,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+14440,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+14669,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+4309,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+4043,psychotic,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+9410,no,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+12816,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+2704,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+11393,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+7161,atypical,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+7348,atypical,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+1147,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+13593,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+4922,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+2343,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+9593,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+6006,atypical,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+13340,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+8225,no,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+8955,no,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+5471,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+7743,no,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+1157,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+11289,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+9629,psychotic,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+911,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+8800,no,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+7327,atypical,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+1643,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+13392,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+8577,no,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+9615,psychotic,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+7649,no,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+10038,psychotic,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+12186,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+4830,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+4604,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+2341,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+10169,psychotic,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+12655,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+12951,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+1,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+4671,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+6140,atypical,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+13542,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+8390,no,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+5345,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+13464,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+679,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+8100,no,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+14016,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+315,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+9681,psychotic,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+8585,no,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+603,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+2139,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+3367,psychotic,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+7177,atypical,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+14455,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+1948,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+13042,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+8661,no,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+8452,no,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+849,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+8680,no,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+1459,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+9262,no,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+9166,no,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+4499,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+6267,atypical,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+12756,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+14726,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+4173,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+10436,psychotic,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+4849,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+8286,no,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+9608,psychotic,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+6136,atypical,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+74,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+113,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+13955,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+4315,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+14831,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+14736,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+379,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+7281,atypical,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+6067,atypical,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+13900,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+13869,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+14893,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+3533,psychotic,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+6885,atypical,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+9177,no,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+6143,atypical,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+4770,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+10419,psychotic,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+10801,psychotic,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+12552,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+8232,no,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+9469,no,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+9529,no,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+7682,no,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+6643,atypical,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+12310,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+1652,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+3944,psychotic,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+14950,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+6225,atypical,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+10624,psychotic,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+14460,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+1421,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+13272,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+1449,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+8060,no,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+1971,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+8081,no,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+12550,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+4596,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+7606,atypical,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+7771,no,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+9695,psychotic,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+5564,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+4117,psychotic,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+4132,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+9447,no,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+7342,atypical,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+3578,psychotic,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+12616,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+1703,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+12682,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+8453,no,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+9285,no,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+10256,psychotic,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+12738,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+8,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+14293,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+8780,no,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+8214,no,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+524,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+11788,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+13434,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+11811,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+2077,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+2360,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+6038,atypical,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+2106,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+779,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+8563,no,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+2532,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+5134,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+8898,no,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+1259,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+13278,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+13663,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+2926,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+3933,psychotic,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+10400,psychotic,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+13367,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+2632,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+14965,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+8689,no,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+10594,psychotic,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+14042,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+13785,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+3816,psychotic,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+4892,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+11960,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+8045,no,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+9514,no,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+7060,atypical,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+4126,psychotic,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+12069,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+9611,psychotic,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+3912,psychotic,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+888,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+3725,psychotic,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+3897,psychotic,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+13768,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+14699,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+3446,psychotic,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+9693,psychotic,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+809,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+14693,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+3399,psychotic,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+6708,atypical,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+14413,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+9458,no,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+14093,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+13500,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+294,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+4371,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+671,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+5204,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+4295,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+9312,no,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+12282,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+284,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+6884,atypical,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+9163,no,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+7139,atypical,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+10739,psychotic,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+5176,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+2759,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+13952,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+4851,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+2342,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+21,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+13246,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+6714,atypical,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+663,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+9431,no,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+9428,no,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+10567,psychotic,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+750,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+11307,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+12867,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+13892,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+13860,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+5476,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+6902,atypical,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+5768,atypical,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+14798,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+14121,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+3463,psychotic,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+13271,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+12810,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+10523,psychotic,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+1007,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+312,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+9226,no,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+9134,no,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+955,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+7335,atypical,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+7875,no,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+3779,psychotic,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+7851,no,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+496,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+5168,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+9904,psychotic,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+7537,atypical,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+3208,psychotic,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+2758,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+2013,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+2776,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+2599,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+463,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+9444,no,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+11457,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+8480,no,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+3376,psychotic,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+4451,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+13629,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+958,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+14593,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+9854,psychotic,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+11298,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+242,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+10833,psychotic,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+12400,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+7013,atypical,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+14601,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+9146,no,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+8481,no,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+13662,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+5221,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+11866,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+5978,atypical,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+6836,atypical,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+7841,no,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+8391,no,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+4036,psychotic,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+9437,no,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+9515,no,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+9360,no,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+9511,no,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+3171,psychotic,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+14083,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+4723,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+2740,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+8218,no,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+3176,psychotic,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+3187,psychotic,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+4467,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+6660,atypical,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+7089,atypical,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+14406,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+3198,psychotic,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+1139,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+5862,atypical,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+7917,no,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+11106,postpartum,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+13432,major depressive,postpartum,0.0,0.0,0.0,0.0,1.0,0.0
+14113,bipolar,postpartum,0.0,0.0,0.0,0.0,1.0,0.0

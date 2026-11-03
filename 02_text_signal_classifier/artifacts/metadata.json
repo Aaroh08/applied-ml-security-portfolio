@@ -1,0 +1,18 @@
+{
+  "selected_model": "tfidf",
+  "labels": [
+    "atypical",
+    "bipolar",
+    "major depressive",
+    "no",
+    "postpartum",
+    "psychotic"
+  ],
+  "seed": 42,
+  "max_chars": 4000,
+  "source_sha256": "049455aefb5d7a2114b0ec4896a8b5635ba9fdf461eed282cd85208fad122b0e",
+  "model_revision": "12040accade4e8a0f71eabdb258fecc2e7e948be",
+  "embedding_max_tokens": 128,
+  "behavioral_features": false,
+  "user_disjoint_split_possible": false
+}

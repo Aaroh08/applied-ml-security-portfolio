@@ -1,0 +1,339 @@
+{
+  "selected_model": "tfidf",
+  "criterion": "validation macro-F1; argmax class decisions",
+  "tuning": {
+    "tfidf": {
+      "C": 10.0,
+      "validation": {
+        "macro_f1": 0.9131296869951923,
+        "classification_report": {
+          "atypical": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 78.0
+          },
+          "bipolar": {
+            "precision": 0.9489795918367347,
+            "recall": 0.9489795918367347,
+            "f1-score": 0.9489795918367347,
+            "support": 98.0
+          },
+          "major depressive": {
+            "precision": 0.8333333333333334,
+            "recall": 0.7920792079207921,
+            "f1-score": 0.8121827411167513,
+            "support": 101.0
+          },
+          "no": {
+            "precision": 0.9876543209876543,
+            "recall": 1.0,
+            "f1-score": 0.9937888198757764,
+            "support": 80.0
+          },
+          "postpartum": {
+            "precision": 0.8940397350993378,
+            "recall": 0.8940397350993378,
+            "f1-score": 0.8940397350993378,
+            "support": 151.0
+          },
+          "psychotic": {
+            "precision": 0.8125,
+            "recall": 0.8478260869565217,
+            "f1-score": 0.8297872340425532,
+            "support": 92.0
+          },
+          "accuracy": 0.9066666666666666,
+          "macro avg": {
+            "precision": 0.9127511635428434,
+            "recall": 0.9138207703022311,
+            "f1-score": 0.9131296869951923,
+            "support": 600.0
+          },
+          "weighted avg": {
+            "precision": 0.906548353909465,
+            "recall": 0.9066666666666666,
+            "f1-score": 0.9064566466246148,
+            "support": 600.0
+          }
+        },
+        "confusion_matrix": [
+          [
+            78,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            93,
+            4,
+            0,
+            1,
+            0
+          ],
+          [
+            0,
+            1,
+            80,
+            0,
+            11,
+            9
+          ],
+          [
+            0,
+            0,
+            0,
+            80,
+            0,
+            0
+          ],
+          [
+            0,
+            1,
+            6,
+            0,
+            135,
+            9
+          ],
+          [
+            0,
+            3,
+            6,
+            1,
+            4,
+            78
+          ]
+        ],
+        "n": 600
+      },
+      "candidate_macro_f1": {
+        "0.1": 0.8661025018320959,
+        "1.0": 0.9052374099105709,
+        "10.0": 0.9131296869951923
+      }
+    },
+    "distilbert": {
+      "C": 0.1,
+      "validation": {
+        "macro_f1": 0.8303731531978323,
+        "classification_report": {
+          "atypical": {
+            "precision": 0.9024390243902439,
+            "recall": 0.9487179487179487,
+            "f1-score": 0.925,
+            "support": 78.0
+          },
+          "bipolar": {
+            "precision": 0.8736842105263158,
+            "recall": 0.8469387755102041,
+            "f1-score": 0.8601036269430051,
+            "support": 98.0
+          },
+          "major depressive": {
+            "precision": 0.7252747252747253,
+            "recall": 0.6534653465346535,
+            "f1-score": 0.6875,
+            "support": 101.0
+          },
+          "no": {
+            "precision": 0.9629629629629629,
+            "recall": 0.975,
+            "f1-score": 0.968944099378882,
+            "support": 80.0
+          },
+          "postpartum": {
+            "precision": 0.831081081081081,
+            "recall": 0.8145695364238411,
+            "f1-score": 0.822742474916388,
+            "support": 151.0
+          },
+          "psychotic": {
+            "precision": 0.6796116504854369,
+            "recall": 0.7608695652173914,
+            "f1-score": 0.717948717948718,
+            "support": 92.0
+          },
+          "accuracy": 0.8233333333333334,
+          "macro avg": {
+            "precision": 0.8291756091201276,
+            "recall": 0.8332601954006732,
+            "f1-score": 0.8303731531978323,
+            "support": 600.0
+          },
+          "weighted avg": {
+            "precision": 0.8238643265195095,
+            "recall": 0.8233333333333334,
+            "f1-score": 0.8227976319239695,
+            "support": 600.0
+          }
+        },
+        "confusion_matrix": [
+          [
+            74,
+            1,
+            0,
+            0,
+            3,
+            0
+          ],
+          [
+            1,
+            83,
+            8,
+            0,
+            2,
+            4
+          ],
+          [
+            0,
+            6,
+            66,
+            0,
+            15,
+            14
+          ],
+          [
+            1,
+            0,
+            0,
+            78,
+            1,
+            0
+          ],
+          [
+            0,
+            2,
+            8,
+            3,
+            123,
+            15
+          ],
+          [
+            6,
+            3,
+            9,
+            0,
+            4,
+            70
+          ]
+        ],
+        "n": 600
+      },
+      "candidate_macro_f1": {
+        "0.1": 0.8303731531978323,
+        "1.0": 0.8295083365481412,
+        "10.0": 0.8234331231788464
+      }
+    },
+    "dummy": {
+      "validation": {
+        "macro_f1": 0.06702174877940524,
+        "classification_report": {
+          "atypical": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1-score": 0.0,
+            "support": 78.0
+          },
+          "bipolar": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1-score": 0.0,
+            "support": 98.0
+          },
+          "major depressive": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1-score": 0.0,
+            "support": 101.0
+          },
+          "no": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1-score": 0.0,
+            "support": 80.0
+          },
+          "postpartum": {
+            "precision": 0.25166666666666665,
+            "recall": 1.0,
+            "f1-score": 0.4021304926764314,
+            "support": 151.0
+          },
+          "psychotic": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1-score": 0.0,
+            "support": 92.0
+          },
+          "accuracy": 0.25166666666666665,
+          "macro avg": {
+            "precision": 0.041944444444444444,
+            "recall": 0.16666666666666666,
+            "f1-score": 0.06702174877940524,
+            "support": 600.0
+          },
+          "weighted avg": {
+            "precision": 0.0633361111111111,
+            "recall": 0.25166666666666665,
+            "f1-score": 0.1012028406569019,
+            "support": 600.0
+          }
+        },
+        "confusion_matrix": [
+          [
+            0,
+            0,
+            0,
+            0,
+            78,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            98,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            101,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            80,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            151,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            92,
+            0
+          ]
+        ],
+        "n": 600
+      }
+    }
+  }
+}

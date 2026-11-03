@@ -1,0 +1,641 @@
+{
+  "tfidf": {
+    "validation": {
+      "macro_f1": 0.9131296869951923,
+      "classification_report": {
+        "atypical": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 78.0
+        },
+        "bipolar": {
+          "precision": 0.9489795918367347,
+          "recall": 0.9489795918367347,
+          "f1-score": 0.9489795918367347,
+          "support": 98.0
+        },
+        "major depressive": {
+          "precision": 0.8333333333333334,
+          "recall": 0.7920792079207921,
+          "f1-score": 0.8121827411167513,
+          "support": 101.0
+        },
+        "no": {
+          "precision": 0.9876543209876543,
+          "recall": 1.0,
+          "f1-score": 0.9937888198757764,
+          "support": 80.0
+        },
+        "postpartum": {
+          "precision": 0.8940397350993378,
+          "recall": 0.8940397350993378,
+          "f1-score": 0.8940397350993378,
+          "support": 151.0
+        },
+        "psychotic": {
+          "precision": 0.8125,
+          "recall": 0.8478260869565217,
+          "f1-score": 0.8297872340425532,
+          "support": 92.0
+        },
+        "accuracy": 0.9066666666666666,
+        "macro avg": {
+          "precision": 0.9127511635428434,
+          "recall": 0.9138207703022311,
+          "f1-score": 0.9131296869951923,
+          "support": 600.0
+        },
+        "weighted avg": {
+          "precision": 0.906548353909465,
+          "recall": 0.9066666666666666,
+          "f1-score": 0.9064566466246148,
+          "support": 600.0
+        }
+      },
+      "confusion_matrix": [
+        [
+          78,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          93,
+          4,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          1,
+          80,
+          0,
+          11,
+          9
+        ],
+        [
+          0,
+          0,
+          0,
+          80,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          6,
+          0,
+          135,
+          9
+        ],
+        [
+          0,
+          3,
+          6,
+          1,
+          4,
+          78
+        ]
+      ],
+      "n": 600
+    },
+    "test": {
+      "macro_f1": 0.8995966655123899,
+      "classification_report": {
+        "atypical": {
+          "precision": 0.987012987012987,
+          "recall": 0.9620253164556962,
+          "f1-score": 0.9743589743589743,
+          "support": 79.0
+        },
+        "bipolar": {
+          "precision": 0.9494949494949495,
+          "recall": 0.9591836734693877,
+          "f1-score": 0.9543147208121827,
+          "support": 98.0
+        },
+        "major depressive": {
+          "precision": 0.925,
+          "recall": 0.7326732673267327,
+          "f1-score": 0.8176795580110497,
+          "support": 101.0
+        },
+        "no": {
+          "precision": 0.927710843373494,
+          "recall": 0.9625,
+          "f1-score": 0.9447852760736196,
+          "support": 80.0
+        },
+        "postpartum": {
+          "precision": 0.8838709677419355,
+          "recall": 0.9133333333333333,
+          "f1-score": 0.898360655737705,
+          "support": 150.0
+        },
+        "psychotic": {
+          "precision": 0.7547169811320755,
+          "recall": 0.8695652173913043,
+          "f1-score": 0.8080808080808081,
+          "support": 92.0
+        },
+        "accuracy": 0.8966666666666666,
+        "macro avg": {
+          "precision": 0.9046344547925735,
+          "recall": 0.8998801346627424,
+          "f1-score": 0.8995966655123899,
+          "support": 600.0
+        },
+        "weighted avg": {
+          "precision": 0.9011350098664197,
+          "recall": 0.8966666666666666,
+          "f1-score": 0.8962719862717475,
+          "support": 600.0
+        }
+      },
+      "confusion_matrix": [
+        [
+          76,
+          0,
+          0,
+          3,
+          0,
+          0
+        ],
+        [
+          0,
+          94,
+          1,
+          0,
+          1,
+          2
+        ],
+        [
+          0,
+          1,
+          74,
+          0,
+          11,
+          15
+        ],
+        [
+          0,
+          0,
+          1,
+          77,
+          0,
+          2
+        ],
+        [
+          1,
+          2,
+          2,
+          1,
+          137,
+          7
+        ],
+        [
+          0,
+          2,
+          2,
+          2,
+          6,
+          80
+        ]
+      ],
+      "n": 600
+    },
+    "classifier_fit_seconds": 1.1888273000367917
+  },
+  "distilbert": {
+    "validation": {
+      "macro_f1": 0.8303731531978323,
+      "classification_report": {
+        "atypical": {
+          "precision": 0.9024390243902439,
+          "recall": 0.9487179487179487,
+          "f1-score": 0.925,
+          "support": 78.0
+        },
+        "bipolar": {
+          "precision": 0.8736842105263158,
+          "recall": 0.8469387755102041,
+          "f1-score": 0.8601036269430051,
+          "support": 98.0
+        },
+        "major depressive": {
+          "precision": 0.7252747252747253,
+          "recall": 0.6534653465346535,
+          "f1-score": 0.6875,
+          "support": 101.0
+        },
+        "no": {
+          "precision": 0.9629629629629629,
+          "recall": 0.975,
+          "f1-score": 0.968944099378882,
+          "support": 80.0
+        },
+        "postpartum": {
+          "precision": 0.831081081081081,
+          "recall": 0.8145695364238411,
+          "f1-score": 0.822742474916388,
+          "support": 151.0
+        },
+        "psychotic": {
+          "precision": 0.6796116504854369,
+          "recall": 0.7608695652173914,
+          "f1-score": 0.717948717948718,
+          "support": 92.0
+        },
+        "accuracy": 0.8233333333333334,
+        "macro avg": {
+          "precision": 0.8291756091201276,
+          "recall": 0.8332601954006732,
+          "f1-score": 0.8303731531978323,
+          "support": 600.0
+        },
+        "weighted avg": {
+          "precision": 0.8238643265195095,
+          "recall": 0.8233333333333334,
+          "f1-score": 0.8227976319239695,
+          "support": 600.0
+        }
+      },
+      "confusion_matrix": [
+        [
+          74,
+          1,
+          0,
+          0,
+          3,
+          0
+        ],
+        [
+          1,
+          83,
+          8,
+          0,
+          2,
+          4
+        ],
+        [
+          0,
+          6,
+          66,
+          0,
+          15,
+          14
+        ],
+        [
+          1,
+          0,
+          0,
+          78,
+          1,
+          0
+        ],
+        [
+          0,
+          2,
+          8,
+          3,
+          123,
+          15
+        ],
+        [
+          6,
+          3,
+          9,
+          0,
+          4,
+          70
+        ]
+      ],
+      "n": 600
+    },
+    "test": {
+      "macro_f1": 0.8322243351240388,
+      "classification_report": {
+        "atypical": {
+          "precision": 0.9333333333333333,
+          "recall": 0.8860759493670886,
+          "f1-score": 0.9090909090909091,
+          "support": 79.0
+        },
+        "bipolar": {
+          "precision": 0.84,
+          "recall": 0.8571428571428571,
+          "f1-score": 0.8484848484848485,
+          "support": 98.0
+        },
+        "major depressive": {
+          "precision": 0.7634408602150538,
+          "recall": 0.7029702970297029,
+          "f1-score": 0.7319587628865979,
+          "support": 101.0
+        },
+        "no": {
+          "precision": 0.9518072289156626,
+          "recall": 0.9875,
+          "f1-score": 0.9693251533742331,
+          "support": 80.0
+        },
+        "postpartum": {
+          "precision": 0.8758620689655172,
+          "recall": 0.8466666666666667,
+          "f1-score": 0.8610169491525423,
+          "support": 150.0
+        },
+        "psychotic": {
+          "precision": 0.6346153846153846,
+          "recall": 0.717391304347826,
+          "f1-score": 0.673469387755102,
+          "support": 92.0
+        },
+        "accuracy": 0.8283333333333334,
+        "macro avg": {
+          "precision": 0.8331764793408253,
+          "recall": 0.8329578457590235,
+          "f1-score": 0.8322243351240388,
+          "support": 600.0
+        },
+        "weighted avg": {
+          "precision": 0.8317822737629162,
+          "recall": 0.8283333333333334,
+          "f1-score": 0.8292587838958879,
+          "support": 600.0
+        }
+      },
+      "confusion_matrix": [
+        [
+          70,
+          2,
+          1,
+          1,
+          2,
+          3
+        ],
+        [
+          1,
+          84,
+          5,
+          0,
+          2,
+          6
+        ],
+        [
+          2,
+          4,
+          71,
+          0,
+          9,
+          15
+        ],
+        [
+          0,
+          0,
+          1,
+          79,
+          0,
+          0
+        ],
+        [
+          1,
+          4,
+          4,
+          0,
+          127,
+          14
+        ],
+        [
+          1,
+          6,
+          11,
+          3,
+          5,
+          66
+        ]
+      ],
+      "n": 600
+    },
+    "classifier_fit_seconds": 4.105212099966593
+  },
+  "dummy": {
+    "validation": {
+      "macro_f1": 0.06702174877940524,
+      "classification_report": {
+        "atypical": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 78.0
+        },
+        "bipolar": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 98.0
+        },
+        "major depressive": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 101.0
+        },
+        "no": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 80.0
+        },
+        "postpartum": {
+          "precision": 0.25166666666666665,
+          "recall": 1.0,
+          "f1-score": 0.4021304926764314,
+          "support": 151.0
+        },
+        "psychotic": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 92.0
+        },
+        "accuracy": 0.25166666666666665,
+        "macro avg": {
+          "precision": 0.041944444444444444,
+          "recall": 0.16666666666666666,
+          "f1-score": 0.06702174877940524,
+          "support": 600.0
+        },
+        "weighted avg": {
+          "precision": 0.0633361111111111,
+          "recall": 0.25166666666666665,
+          "f1-score": 0.1012028406569019,
+          "support": 600.0
+        }
+      },
+      "confusion_matrix": [
+        [
+          0,
+          0,
+          0,
+          0,
+          78,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          98,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          101,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          80,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          151,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          92,
+          0
+        ]
+      ],
+      "n": 600
+    },
+    "test": {
+      "macro_f1": 0.06666666666666667,
+      "classification_report": {
+        "atypical": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 79.0
+        },
+        "bipolar": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 98.0
+        },
+        "major depressive": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 101.0
+        },
+        "no": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 80.0
+        },
+        "postpartum": {
+          "precision": 0.25,
+          "recall": 1.0,
+          "f1-score": 0.4,
+          "support": 150.0
+        },
+        "psychotic": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 92.0
+        },
+        "accuracy": 0.25,
+        "macro avg": {
+          "precision": 0.041666666666666664,
+          "recall": 0.16666666666666666,
+          "f1-score": 0.06666666666666667,
+          "support": 600.0
+        },
+        "weighted avg": {
+          "precision": 0.0625,
+          "recall": 0.25,
+          "f1-score": 0.1,
+          "support": 600.0
+        }
+      },
+      "confusion_matrix": [
+        [
+          0,
+          0,
+          0,
+          0,
+          79,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          98,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          101,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          80,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          150,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          92,
+          0
+        ]
+      ],
+      "n": 600
+    },
+    "classifier_fit_seconds": 0
+  }
+}

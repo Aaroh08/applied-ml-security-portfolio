@@ -1,0 +1,16 @@
+{
+  "fingerprint": "860a813e26578aefad954755f53d17631f17db18d90d11223eb08003f34e2efe",
+  "truncated_counts": {
+    "train": 0,
+    "validation": 0,
+    "test": 0
+  },
+  "dimension": 768,
+  "max_length": 128,
+  "pooling": "attention-masked mean, including special tokens",
+  "seconds": 240.87191499996698,
+  "frozen": true,
+  "device": "cpu",
+  "threads": 4,
+  "batch_size": 8
+}

@@ -1,0 +1,60 @@
+{
+  "raw_rows": 14996,
+  "columns": [
+    "Tweets",
+    "Labels"
+  ],
+  "raw_class_counts": {
+    "postpartum": 3747,
+    "major depressive": 2517,
+    "bipolar": 2443,
+    "psychotic": 2312,
+    "no": 1985,
+    "atypical": 1980
+  },
+  "missing": {
+    "Tweets": 1,
+    "Labels": 12
+  },
+  "user_ids": false,
+  "timestamps": false,
+  "behavioral_fields": false,
+  "conflicting_duplicate_groups": 0,
+  "conflicting_rows_removed": 0,
+  "same_label_duplicates_removed": 76,
+  "unique_eligible_rows": 14906,
+  "split_counts": {
+    "train": {
+      "postpartum": 452,
+      "major depressive": 304,
+      "bipolar": 293,
+      "psychotic": 277,
+      "no": 239,
+      "atypical": 235
+    },
+    "validation": {
+      "postpartum": 151,
+      "major depressive": 101,
+      "bipolar": 98,
+      "psychotic": 92,
+      "no": 80,
+      "atypical": 78
+    },
+    "test": {
+      "postpartum": 150,
+      "major depressive": 101,
+      "bipolar": 98,
+      "psychotic": 92,
+      "no": 80,
+      "atypical": 79
+    }
+  },
+  "explicit_label_term_counts": {
+    "train": 758,
+    "validation": 229,
+    "test": 234
+  },
+  "limitations": "Creator uses lexicon labeling; topics/keywords may define labels. No clinical diagnosis or user-disjoint guarantee. Exact normalization duplicates removed; semantic near duplicates can remain. No source text is included in published evaluation artifacts.",
+  "test_rows_with_train_cosine_at_least_0_90": 2,
+  "maximum_train_test_cosine": 1.0
+}

@@ -1,0 +1,23 @@
+Embedded 8/1800
+Embedded 408/1800
+Embedded 808/1800
+Embedded 1208/1800
+Embedded 1608/1800
+Embedded 8/600
+Embedded 408/600
+Embedded 8/600
+Embedded 408/600
+Embedded 8/600
+Embedded 408/600
+{
+  "selected": "tfidf",
+  "test_macro_f1": {
+    "tfidf": 0.8995966655123899,
+    "distilbert": 0.8322243351240388,
+    "dummy": 0.06666666666666667
+  },
+  "masked_macro_f1": {
+    "tfidf": 0.6611809090745085,
+    "distilbert": 0.6123944644602429
+  }
+}

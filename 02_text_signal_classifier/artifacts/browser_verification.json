@@ -1,0 +1,1 @@
+{"date":"2026-11-03","url":"http://127.0.0.1:5052/","actual_browser":true,"verified":["fictional example population","both models render six scores","dataset tag wording and uncertainty visible","clear removes input and output"],"fictional_topic_example":{"tfidf_postpartum_score":0.976,"distilbert_postpartum_score":0.932},"screenshot":"docs/demo.png"}
