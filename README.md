@@ -2,13 +2,15 @@
 
 Three local educational projects built with AI assistance, with reproducible experiments and evidence instead of unsupported impact claims.
 
+[View all three completed projects on the public GitHub Projects board](https://github.com/users/Aaroh08/projects/1).
+
 | Project | Status | Purpose |
 |---|---|---|
 | [Explainable liver label classification](01_liver_classifier/) | Implemented, evaluated and tested | Training-only tabular pipelines, SHAP/LIME, Flask |
 | [Text signal classification](02_text_signal_classifier/) | Implemented, evaluated and tested | Honest text-only TF-IDF versus frozen DistilBERT comparison |
 | [Local WAF prototype](03_local_waf/) | Implemented, evaluated and tested | Local defensive request inspection, Random Forest and real MySQL events |
 
-Each project has an isolated directory and runtime. Follow its README to install, train and start locally. No paid infrastructure or public deployment is used. Model weights, raw datasets and credentials are excluded. The repository is private; uploading code does not make the applications publicly accessible.
+Each project has an isolated directory and runtime. Follow its README to install, train and start locally. No paid infrastructure or public deployment is used. Model weights, raw datasets and credentials are excluded. The repository is public; the applications run locally and are not deployed as public services.
 
 Do not use the two health-related models for diagnosis or decisions about people. The security project is confined to its bundled localhost target. Resume claims must be backed by the linked experiment/test artifacts, and the student should complete the interview exercises before claiming proficiency.
 
